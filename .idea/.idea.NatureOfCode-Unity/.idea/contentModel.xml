@@ -19,6 +19,8 @@
             <e p="Example_2_1_Mover.cs" t="Include" />
             <e p="Example_2_2.cs" t="Include" />
             <e p="Example_2_2_Mover.cs" t="Include" />
+            <e p="Example_2_3.cs" t="Include" />
+            <e p="Example_2_3_Mover.cs" t="Include" />
           </e>
           <e p="Vectors" t="Include">
             <e p="Example_1_10.cs" t="Include" />
