@@ -23,7 +23,7 @@ public class Example_2_8_Mover : MonoBehaviour {
 		mass = _m;
 		location = new Vector3(UnityEngine.Random.Range(0,CSizeX), UnityEngine.Random.Range(0, CSizeY), 0f);
 		velocity = new Vector3(0f, 0f, 0f);
-		acceleration = new Vector3( 0, _initialForce, 0);
+		acceleration = new Vector3(UnityEngine.Random.value*-.5f, UnityEngine.Random.value*-.5f, UnityEngine.Random.value*-.5f);
 			
 	}
 

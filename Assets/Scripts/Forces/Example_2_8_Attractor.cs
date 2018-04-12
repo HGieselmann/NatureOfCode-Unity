@@ -23,7 +23,8 @@ public class Example_2_8_Attractor : MonoBehaviour
 		G = _G;
 		AttractorSphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
 		AttractorSphere.transform.position = location;
-		AttractorSphere.transform.localScale = new Vector3(mass / 10, mass/10, mass/10);
+		//AttractorSphere.transform.localScale = new Vector3(mass / 10, mass/10, mass/10);
+		AttractorSphere.transform.localScale = new Vector3(0, 0, 0);
 	}
 
 	public Vector3 attract(Example_2_8_Mover m)

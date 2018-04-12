@@ -12,13 +12,15 @@
 using System;
 using System.Collections;
 using System.Collections.Generic;
+using JetBrains.Annotations;
 using UnityEngine;
 
 
 
 public class Example_2_8 : MonoBehaviour
 {
-
+	private float timeLeft = 10f;
+	
 	public float CSizeX = 16;
 	public float CSizeY = 9;
 
@@ -28,7 +30,7 @@ public class Example_2_8 : MonoBehaviour
 	// This is setup with Arrays on puropse, to be able to play with it faster
 	public Example_2_8_Attractor Attractor;
 	
-	[SerializeField] static int NoOfSpheres = 20;
+	[SerializeField] static int NoOfSpheres = 15;
 	private Example_2_8_Mover[] movers = new Example_2_8_Mover[NoOfSpheres];
 	private GameObject[] spheres = new GameObject[NoOfSpheres];
 	
@@ -37,7 +39,7 @@ public class Example_2_8 : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		Attractor = new Example_2_8_Attractor(CSizeX/2, CSizeY/2, 3, 0.2f);
+		Attractor = new Example_2_8_Attractor(CSizeX/2, CSizeY/2, 1, 0.2f);
 		
 		for (int i = 0; i < movers.Length; i++)
 		{
@@ -70,11 +72,29 @@ public class Example_2_8 : MonoBehaviour
 			movers[i].UpdatePosition();
 			//movers[i].CheckEdges();
 			spheres[i].transform.position = new Vector3(movers[i].location.x, movers[i].location.y, 0f);
+
 		}
+		timeLeft -= Time.deltaTime;
+		if (timeLeft <= 0)
+		{
+			capture();
+			Invoke("ClearScreen", 1f);
+			for (int i = 0; i < movers.Length; i++)
+			{
+				movers[i] = new Example_2_8_Mover(UnityEngine.Random.value * 4, (UnityEngine.Random.value - 0.5f) * 20);
+			}
+			timeLeft += 2000;
+		}
+	}
 
+	private void ClearScreen()
+	{
+		GL.Clear(true, true, Color.black, 0f);
+	}
 
-
-
+	void capture()
+	{
+		ScreenCapture.CaptureScreenshot("screenshot"+Time.time+".png");
 	}
 	
 
