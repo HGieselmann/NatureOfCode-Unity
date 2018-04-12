@@ -51,8 +51,7 @@ public class Example_2_5 : MonoBehaviour
 		{
 			// TODO Fix NEW Warning when instatiating, make mono happy.
 			RandMass[i] = UnityEngine.Random.value;
-			// TODO Fix positioning
-			movers[i] = new Example_2_5_Mover(RandMass[i], i*CSizeX / movers.Length, 9f);
+			movers[i] = new Example_2_5_Mover(RandMass[i], (float)i*CSizeX / movers.Length, 9f);
 			spheres[i] = GameObject.CreatePrimitive(PrimitiveType.Sphere);
 			spheres[i].transform.position =
 				new Vector3(UnityEngine.Random.value , UnityEngine.Random.value, UnityEngine.Random.value);
