@@ -6,7 +6,7 @@ using UnityEngine;
 
 
 
-public class Example_2_6_Attractor : MonoBehaviour
+public class Example_2_8_Attractor : MonoBehaviour
 {
 
 
@@ -16,7 +16,7 @@ public class Example_2_6_Attractor : MonoBehaviour
 	public GameObject AttractorSphere;
 	
 	// <<<--->>> Constructor <<<--->>>
-	public Example_2_6_Attractor(float _x, float _y, float _m, float _G)
+	public Example_2_8_Attractor(float _x, float _y, float _m, float _G)
 	{
 		location = new Vector3(_x, _y, 0f);
 		mass = _m;
@@ -26,7 +26,7 @@ public class Example_2_6_Attractor : MonoBehaviour
 		AttractorSphere.transform.localScale = new Vector3(mass / 10, mass/10, mass/10);
 	}
 
-	public Vector3 attract(Example_2_6_Mover m)
+	public Vector3 attract(Example_2_8_Mover m)
 	{
 		Vector3 force = location - m.location;
 		float distance = force.magnitude;

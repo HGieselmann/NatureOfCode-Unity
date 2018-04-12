@@ -5,7 +5,7 @@ using UnityEngine;
 
 
 
-public class Example_2_7_Mover : MonoBehaviour {
+public class Example_2_8_Mover : MonoBehaviour {
 	
 	public static int CSizeX = 16;
 	public static int CSizeY = 9;
@@ -18,7 +18,7 @@ public class Example_2_7_Mover : MonoBehaviour {
 	Vector3 f;
 	
 	// <<<--->>> Constructor <<<--->>>
-	public Example_2_7_Mover(float _m, float _initialForce)
+	public Example_2_8_Mover(float _m, float _initialForce)
 	{
 		mass = _m;
 		location = new Vector3(UnityEngine.Random.Range(0,CSizeX), UnityEngine.Random.Range(0, CSizeY), 0f);
