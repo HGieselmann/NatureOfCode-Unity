@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="ba1e9e3b-8d36-4df2-ad00-6cfeb7884ccb" name="Default" comment="Added Example 2-2">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_5.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_5.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_5.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_6.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example_2_6.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,32 +23,89 @@
       <file leaf-file-name="Example_2_6.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+            <state relative-caret-position="472">
+              <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
               <folding>
-                <marker date="1523537886895" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
-                <marker date="1523537886895" expanded="false" signature="603:689" ph="..." />
-                <marker date="1523537886895" expanded="true" signature="733:2118" ph="{...}" />
-                <marker date="1523537886895" expanded="true" signature="1261:1698" ph="{...}" />
-                <marker date="1523537886895" expanded="true" signature="1380:1691" ph="{...}" />
-                <marker date="1523537886895" expanded="true" signature="1752:2112" ph="{...}" />
-                <marker date="1523537886895" expanded="true" signature="1797:2105" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+                <marker date="1523541496246" expanded="false" signature="603:689" ph="..." />
+                <marker date="1523541496246" expanded="true" signature="733:2123" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="1261:1697" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="1379:1690" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="1751:2117" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="1796:2110" ph="{...}" />
+                <marker date="1523541496246" expanded="true" signature="1885:1950" ph="/* movers[i].applyForce(wind); ... */" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_2_6_Attractor.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_2_7.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="35" column="72" lean-forward="false" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+              <folding>
+                <marker date="1523541397737" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+                <marker date="1523541397737" expanded="false" signature="603:689" ph="..." />
+                <marker date="1523541397737" expanded="true" signature="733:2188" ph="{...}" />
+                <marker date="1523541397737" expanded="true" signature="1262:1762" ph="{...}" />
+                <marker date="1523541397737" expanded="true" signature="1380:1755" ph="{...}" />
+                <marker date="1523541397737" expanded="true" signature="1816:2182" ph="{...}" />
+                <marker date="1523541397737" expanded="true" signature="1861:2175" ph="{...}" />
+                <marker date="1523541397737" expanded="true" signature="1950:2015" ph="/* movers[i].applyForce(wind); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_2_7_Attractor.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+              <folding>
+                <marker date="1523541010955" expanded="false" signature="6:164" ph="..." />
+                <marker date="1523541010955" expanded="true" signature="218:1121" ph="{...}" />
+                <marker date="1523541010955" expanded="true" signature="459:728" ph="{...}" />
+                <marker date="1523541010955" expanded="true" signature="774:1115" ph="{...}" />
+                <marker date="1523541010955" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_2_7_Mover.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
+              <folding>
+                <marker date="1523541259079" expanded="false" signature="6:126" ph="..." />
+                <marker date="1523541259079" expanded="true" signature="177:1241" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="463:679" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="719:767" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="799:897" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="924:1237" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="954:1007" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="1032:1080" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="1108:1161" ph="{...}" />
+                <marker date="1523541259079" expanded="true" signature="1186:1234" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_2_6_Attractor.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="26" column="87" lean-forward="false" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
+            <state relative-caret-position="660">
+              <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
               <folding>
-                <marker date="1523537828319" expanded="false" signature="6:164" ph="..." />
-                <marker date="1523537828319" expanded="true" signature="218:1075" ph="{...}" />
-                <marker date="1523537828319" expanded="true" signature="459:728" ph="{...}" />
-                <marker date="1523537828319" expanded="true" signature="774:1069" ph="{...}" />
-                <marker date="1523537828319" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
+                <marker date="1523538894124" expanded="false" signature="6:164" ph="..." />
+                <marker date="1523538894124" expanded="true" signature="218:1121" ph="{...}" />
+                <marker date="1523538894124" expanded="true" signature="459:728" ph="{...}" />
+                <marker date="1523538894124" expanded="true" signature="774:1115" ph="{...}" />
+                <marker date="1523538894124" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
               </folding>
             </state>
           </provider>
@@ -69,21 +131,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_2_6_Mover.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Example_2_6_Mover.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+            <state relative-caret-position="484">
+              <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
               <folding>
-                <marker date="1523537178758" expanded="false" signature="6:126" ph="..." />
-                <marker date="1523537178758" expanded="true" signature="177:1119" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="434:630" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="670:718" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="750:848" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="875:1115" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="905:958" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="983:1031" ph="{...}" />
-                <marker date="1523537178758" expanded="true" signature="1059:1112" ph="{...}" />
+                <marker date="1523541688009" expanded="false" signature="6:126" ph="..." />
+                <marker date="1523541688009" expanded="true" signature="177:1126" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="434:564" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="604:652" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="684:782" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="809:1122" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="839:892" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="917:965" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="993:1046" ph="{...}" />
+                <marker date="1523541688009" expanded="true" signature="1071:1119" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -106,8 +169,11 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Liquid.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3.cs" root0="FORCE_HIGHLIGHTING" />
@@ -128,9 +194,12 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Liquid.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Mover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" />
       </list>
     </option>
   </component>
@@ -213,12 +282,12 @@
       <workItem from="1523445649485" duration="1632000" />
       <workItem from="1523450470547" duration="600000" />
       <workItem from="1523520467290" duration="7385000" />
-      <workItem from="1523536130109" duration="1832000" />
+      <workItem from="1523536130109" duration="4307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21212000" />
+    <option name="totallyTimeSpent" value="23687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -616,50 +685,118 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover1.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding>
-            <marker date="1523537178758" expanded="false" signature="6:126" ph="..." />
-            <marker date="1523537178758" expanded="true" signature="177:1119" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="434:630" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="670:718" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="750:848" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="875:1115" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="905:958" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="983:1031" ph="{...}" />
-            <marker date="1523537178758" expanded="true" signature="1059:1112" ph="{...}" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor7.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" column="52" lean-forward="false" selection-start-line="26" selection-start-column="52" selection-end-line="26" selection-end-column="52" />
           <folding>
-            <marker date="1523537886895" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
-            <marker date="1523537886895" expanded="false" signature="603:689" ph="..." />
-            <marker date="1523537886895" expanded="true" signature="733:2118" ph="{...}" />
-            <marker date="1523537886895" expanded="true" signature="1261:1698" ph="{...}" />
-            <marker date="1523537886895" expanded="true" signature="1380:1691" ph="{...}" />
-            <marker date="1523537886895" expanded="true" signature="1752:2112" ph="{...}" />
-            <marker date="1523537886895" expanded="true" signature="1797:2105" ph="{...}" />
+            <marker date="1523541259079" expanded="false" signature="6:126" ph="..." />
+            <marker date="1523541259079" expanded="true" signature="177:1241" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="463:679" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="719:767" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="799:897" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="924:1237" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="954:1007" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="1032:1080" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="1108:1161" ph="{...}" />
+            <marker date="1523541259079" expanded="true" signature="1186:1234" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="26" column="87" lean-forward="false" selection-start-line="26" selection-start-column="87" selection-end-line="26" selection-end-column="87" />
+        <state relative-caret-position="660">
+          <caret line="35" column="51" lean-forward="false" selection-start-line="35" selection-start-column="51" selection-end-line="35" selection-end-column="51" />
           <folding>
-            <marker date="1523537828319" expanded="false" signature="6:164" ph="..." />
-            <marker date="1523537828319" expanded="true" signature="218:1075" ph="{...}" />
-            <marker date="1523537828319" expanded="true" signature="459:728" ph="{...}" />
-            <marker date="1523537828319" expanded="true" signature="774:1069" ph="{...}" />
-            <marker date="1523537828319" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
+            <marker date="1523538894124" expanded="false" signature="6:164" ph="..." />
+            <marker date="1523538894124" expanded="true" signature="218:1121" ph="{...}" />
+            <marker date="1523538894124" expanded="true" signature="459:728" ph="{...}" />
+            <marker date="1523538894124" expanded="true" signature="774:1115" ph="{...}" />
+            <marker date="1523538894124" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="29" column="38" lean-forward="false" selection-start-line="29" selection-start-column="38" selection-end-line="29" selection-end-column="38" />
+          <folding>
+            <marker date="1523541010955" expanded="false" signature="6:164" ph="..." />
+            <marker date="1523541010955" expanded="true" signature="218:1121" ph="{...}" />
+            <marker date="1523541010955" expanded="true" signature="459:728" ph="{...}" />
+            <marker date="1523541010955" expanded="true" signature="774:1115" ph="{...}" />
+            <marker date="1523541010955" expanded="true" signature="857:936" ph="/* TODO Constrain to some sueful Values; Look up how to ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="35" column="72" lean-forward="false" selection-start-line="35" selection-start-column="72" selection-end-line="35" selection-end-column="72" />
+          <folding>
+            <marker date="1523541397737" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+            <marker date="1523541397737" expanded="false" signature="603:689" ph="..." />
+            <marker date="1523541397737" expanded="true" signature="733:2188" ph="{...}" />
+            <marker date="1523541397737" expanded="true" signature="1262:1762" ph="{...}" />
+            <marker date="1523541397737" expanded="true" signature="1380:1755" ph="{...}" />
+            <marker date="1523541397737" expanded="true" signature="1816:2182" ph="{...}" />
+            <marker date="1523541397737" expanded="true" signature="1861:2175" ph="{...}" />
+            <marker date="1523541397737" expanded="true" signature="1950:2015" ph="/* movers[i].applyForce(wind); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="26" column="48" lean-forward="false" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+          <folding>
+            <marker date="1523541496246" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+            <marker date="1523541496246" expanded="false" signature="603:689" ph="..." />
+            <marker date="1523541496246" expanded="true" signature="733:2123" ph="{...}" />
+            <marker date="1523541496246" expanded="true" signature="1261:1697" ph="{...}" />
+            <marker date="1523541496246" expanded="true" signature="1379:1690" ph="{...}" />
+            <marker date="1523541496246" expanded="true" signature="1751:2117" ph="{...}" />
+            <marker date="1523541496246" expanded="true" signature="1796:2110" ph="{...}" />
+            <marker date="1523541496246" expanded="true" signature="1885:1950" ph="/* movers[i].applyForce(wind); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="26" column="41" lean-forward="false" selection-start-line="26" selection-start-column="41" selection-end-line="26" selection-end-column="41" />
+          <folding>
+            <marker date="1523541688009" expanded="false" signature="6:126" ph="..." />
+            <marker date="1523541688009" expanded="true" signature="177:1126" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="434:564" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="604:652" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="684:782" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="809:1122" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="839:892" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="917:965" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="993:1046" ph="{...}" />
+            <marker date="1523541688009" expanded="true" signature="1071:1119" ph="{...}" />
           </folding>
         </state>
       </provider>

@@ -6,7 +6,7 @@ using UnityEngine;
 
 
 
-public class Example_2_6_Mover : MonoBehaviour {
+public class Example_2_7_Mover : MonoBehaviour {
 	
 	public static int CSizeX = 16;
 	public static int CSizeY = 9;
@@ -19,12 +19,12 @@ public class Example_2_6_Mover : MonoBehaviour {
 	Vector3 f;
 	
 	// <<<--->>> Constructor <<<--->>>
-	public Example_2_6_Mover()
+	public Example_2_7_Mover(float _m, float _initialForce)
 	{
-		
-		location = new Vector3(6,4.5f, 0f);
+		mass = _m;
+		location = new Vector3(UnityEngine.Random.Range(0,CSizeX), UnityEngine.Random.Range(0, CSizeY), 0f);
 		velocity = new Vector3(0f, 0f, 0f);
-		acceleration = new Vector3( 0, -5, 0);
+		acceleration = new Vector3( 0, _initialForce, 0);
 			
 	}
 

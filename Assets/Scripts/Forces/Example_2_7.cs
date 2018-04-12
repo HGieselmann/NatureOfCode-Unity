@@ -14,7 +14,7 @@ using UnityEngine;
 
 
 
-public class Example_2_6 : MonoBehaviour
+public class Example_2_7 : MonoBehaviour
 {
 
 	public float CSizeX = 16;
@@ -22,10 +22,10 @@ public class Example_2_6 : MonoBehaviour
 	
 
 	// This is setup with Arrays on puropse, to be able to play with it faster
-	public Example_2_6_Attractor Attractor;
+	public Example_2_7_Attractor Attractor;
 	
-	[SerializeField] static int NoOfSpheres = 1;
-	private Example_2_6_Mover[] movers = new Example_2_6_Mover[NoOfSpheres];
+	[SerializeField] static int NoOfSpheres = 20;
+	private Example_2_7_Mover[] movers = new Example_2_7_Mover[NoOfSpheres];
 	private GameObject[] spheres = new GameObject[NoOfSpheres];
 	
 	[SerializeField] Vector3 wind = new Vector3(0f, 0f, 0f);
@@ -33,13 +33,13 @@ public class Example_2_6 : MonoBehaviour
 	// Use this for initialization
 	void Start ()
 	{
-		Attractor = new Example_2_6_Attractor(CSizeX/2, CSizeY/2, 3, 0.4f);
+		Attractor = new Example_2_7_Attractor(CSizeX/2, CSizeY/2, 3, 0.2f);
 		
 		for (int i = 0; i < movers.Length; i++)
 		{
 			
 			// TODO Fix NEW Warning when instatiating, make mono happy.
-			movers[i] = new Example_2_6_Mover();
+			movers[i] = new Example_2_7_Mover(UnityEngine.Random.value*4, (UnityEngine.Random.value -0.5f)* 20);
 			spheres[i] = GameObject.CreatePrimitive(PrimitiveType.Sphere);
 			spheres[i].transform.position =
 				new Vector3(UnityEngine.Random.value, UnityEngine.Random.value, UnityEngine.Random.value);
