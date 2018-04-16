@@ -43,6 +43,8 @@
             <e p="Example_0_1.cs" t="Include" />
             <e p="Example_0_1_Walker.cs" t="Include" />
             <e p="Example_0_2.cs" t="Include" />
+            <e p="Example_0_3.cs" t="Include" />
+            <e p="Example_0_3_Walker.cs" t="Include" />
           </e>
           <e p="Vectors" t="Include">
             <e p="Example_1_10.cs" t="Include" />

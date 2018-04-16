@@ -11,32 +11,28 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Example_0_1 : MonoBehaviour
+public class Example_0_3 : MonoBehaviour
 {
 	public static float CSizeX = 16;
 	public static float CSizeY = 9;
 
-	public Example_0_1_Walker Walker;
+	public Example_0_3_Walker Walker;
 
-	//private GameObject sphere;
+	private GameObject sphere;
 	
 	// Use this for initialization
 	void Start ()
 	{
-		Walker = new GameObject().AddComponent<Example_0_1_Walker>();
-		Debug.Log(Walker);
-		//sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		//sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+		Walker = new GameObject().AddComponent<Example_0_3_Walker>();
+		sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+		sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		//Walker = gameObject.AddComponent<Example_0_1_Walker>();
-		Debug.Log(Walker);
-		Debug.Log(Walker.position);
 		Walker.RandomMove();
-		Walker.Display();
-//		sphere.transform.position = Walker.position/10;
+		Walker.checkEdges();
+		sphere.transform.position = Walker.position/10;
 	}
 }

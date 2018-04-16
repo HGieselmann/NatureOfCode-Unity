@@ -1,47 +1,51 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
+using System.Runtime.Serialization.Formatters;
 using UnityEngine;
 
-public class Example_0_1_Walker : MonoBehaviour
+public class Example_0_3_Walker : MonoBehaviour
 {
 	public float x, y, size;
 	public Vector3 position;
 
 	public GameObject sphere; 
 
-	
 	//Constructor
-	public Example_0_1_Walker(float _x, float _y, float _size)
+	public Example_0_3_Walker(float _x, float _y, float _size)
 	{
 		
 		x = _x;
 		y = _y;
 		size = _size;
-		Debug.Log(x + " " + y + " " + size +"Constructor run");
 		position = new Vector3(x, y, 0f);
 		sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		Debug.Log(sphere + "Constructor");
 		sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 	}
 	
 	public void RandomMove()
 	{
-		Debug.Log(sphere);
-		Debug.Log("CodeRun");
-		int choice = UnityEngine.Random.Range(1, 5); // 5 because Range is not inclusive
-		if (choice == 1)
+		float choice = UnityEngine.Random.value; // 5 because Range is not inclusive
+		if (choice < 0.2f)
 		{
 			position += Vector3.up;
-		} else if (choice == 2)
+		} else if (choice < 0.6f)
 		{
 			position+= Vector3.right;
-		} else if (choice == 3)
+		} else if (choice < 0.8f)
 		{
 			position += Vector3.down;
-		} else if (choice == 4)
+		} else
 		{
 			position += Vector3.left;
+		}
+	}
+
+	public void checkEdges()
+	{
+		if (position.x > 80)
+		{
+			position.x = 80;
 		}
 	}
 
