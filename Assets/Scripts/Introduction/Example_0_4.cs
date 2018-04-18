@@ -12,11 +12,18 @@ using UnityEngine;
 
 public class Example_0_4 : MonoBehaviour
 {
-	public GameObject[] cubes = new GameObject[10];
+	private GameObject[] cubes = new GameObject[10];
+	private GameObject sphere;
+	public float spherePos = 0;
+	public Material semi;
 
 	private double _laplacian;
 	// Use this for initialization
 	void Start () {
+		
+		sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+		sphere.GetComponent<Renderer>().material = semi;
+
 
 		for (int i = 0; i < cubes.Length; i++)
 		{
@@ -33,6 +40,10 @@ public class Example_0_4 : MonoBehaviour
 		_laplacian = NextLaplacianDouble();
 		_laplacian = NormalizeLaplacian(_laplacian, 0, cubes.Length);
 		// TODO implement Code to check for Values outside of 99.7%;
+
+		sphere.transform.position = new Vector3((float)_laplacian - cubes.Length /2, spherePos, 0);
+		
+		
 		for (int i = 0; i < cubes.Length; i++)
 		{
 			if ((int) _laplacian == i)

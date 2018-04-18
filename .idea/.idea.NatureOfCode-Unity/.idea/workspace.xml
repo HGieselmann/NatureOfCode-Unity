@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1e9e3b-8d36-4df2-ad00-6cfeb7884ccb" name="Default" comment="Added Example 2-2">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -93,19 +93,19 @@
       <file leaf-file-name="Example_0_4.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="802">
-              <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+            <state relative-caret-position="400">
+              <caret line="24" column="56" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
               <folding>
-                <marker date="1524043364692" expanded="false" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
-                <marker date="1524043364692" expanded="false" signature="602:674" ph="..." />
-                <marker date="1524043364692" expanded="true" signature="716:1998" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="844:1098" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="887:1095" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="1152:1492" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="1362:1480" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="1396:1476" ph="{...}" />
-                <marker date="1524043364692" expanded="false" signature="1538:1811" ph="{...}" />
-                <marker date="1524043364692" expanded="true" signature="1890:1995" ph="{...}" />
+                <marker date="1524044419653" expanded="false" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+                <marker date="1524044419653" expanded="false" signature="602:674" ph="..." />
+                <marker date="1524044419653" expanded="true" signature="716:2296" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="925:1295" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="1084:1292" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="1349:1790" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="1660:1778" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="1694:1774" ph="{...}" />
+                <marker date="1524044419653" expanded="false" signature="1836:2109" ph="{...}" />
+                <marker date="1524044419653" expanded="true" signature="2188:2293" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -194,7 +194,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1270" />
     <option name="width" value="1300" />
     <option name="height" value="1390" />
@@ -272,12 +272,12 @@
       <workItem from="1523716385612" duration="2972000" />
       <workItem from="1523787723877" duration="7000" />
       <workItem from="1523787769565" duration="13193000" />
-      <workItem from="1524041566484" duration="1858000" />
+      <workItem from="1524041566484" duration="2923000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54504000" />
+    <option name="totallyTimeSpent" value="55569000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -289,7 +289,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2582" height="1402" extended-state="7" />
+    <frame x="-11" y="-11" width="2582" height="1402" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3262987" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -680,19 +680,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="802">
-          <caret line="41" column="9" lean-forward="true" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        <state relative-caret-position="400">
+          <caret line="24" column="56" lean-forward="false" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding>
-            <marker date="1524043364692" expanded="false" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
-            <marker date="1524043364692" expanded="false" signature="602:674" ph="..." />
-            <marker date="1524043364692" expanded="true" signature="716:1998" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="844:1098" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="887:1095" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="1152:1492" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="1362:1480" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="1396:1476" ph="{...}" />
-            <marker date="1524043364692" expanded="false" signature="1538:1811" ph="{...}" />
-            <marker date="1524043364692" expanded="true" signature="1890:1995" ph="{...}" />
+            <marker date="1524044419653" expanded="false" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
+            <marker date="1524044419653" expanded="false" signature="602:674" ph="..." />
+            <marker date="1524044419653" expanded="true" signature="716:2296" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="925:1295" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="1084:1292" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="1349:1790" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="1660:1778" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="1694:1774" ph="{...}" />
+            <marker date="1524044419653" expanded="false" signature="1836:2109" ph="{...}" />
+            <marker date="1524044419653" expanded="true" signature="2188:2293" ph="{...}" />
           </folding>
         </state>
       </provider>

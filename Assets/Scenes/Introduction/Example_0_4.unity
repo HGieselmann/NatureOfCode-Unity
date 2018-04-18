@@ -218,8 +218,8 @@ Camera:
   m_GameObject: {fileID: 1418215416}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 4
+  m_BackGroundColor: {r: 1, g: 1, b: 1, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -299,14 +299,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 16a6173926ba42e4593261c292c516bd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cubes:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  spherePos: 4
+  semi: {fileID: 2100000, guid: f2cfb3073395e4142ade44253163739c, type: 2}
