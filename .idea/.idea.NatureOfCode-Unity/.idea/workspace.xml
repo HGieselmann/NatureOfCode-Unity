@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba1e9e3b-8d36-4df2-ad00-6cfeb7884ccb" name="Default" comment="Added Example 2-2">
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity/.idea/contentModel.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -90,7 +89,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_0_4.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_0_4.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="400">
@@ -106,6 +105,21 @@
                 <marker date="1524044419653" expanded="true" signature="1694:1774" ph="{...}" />
                 <marker date="1524044419653" expanded="false" signature="1836:2109" ph="{...}" />
                 <marker date="1524044419653" expanded="true" signature="2188:2293" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_0_5.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <marker date="1524046659512" expanded="false" signature="6:78" ph="..." />
+                <marker date="1524046659512" expanded="true" signature="120:627" ph="{...}" />
+                <marker date="1524046659512" expanded="true" signature="280:351" ph="{...}" />
+                <marker date="1524046659512" expanded="true" signature="405:625" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -134,6 +148,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
@@ -185,6 +200,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3_Walker.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs" />
       </list>
     </option>
   </component>
@@ -272,12 +288,12 @@
       <workItem from="1523716385612" duration="2972000" />
       <workItem from="1523787723877" duration="7000" />
       <workItem from="1523787769565" duration="13193000" />
-      <workItem from="1524041566484" duration="2923000" />
+      <workItem from="1524041566484" duration="3962000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55569000" />
+    <option name="totallyTimeSpent" value="56608000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -330,13 +346,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4_Mover.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="28" lean-forward="false" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Liquid.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -693,6 +702,19 @@
             <marker date="1524044419653" expanded="true" signature="1694:1774" ph="{...}" />
             <marker date="1524044419653" expanded="false" signature="1836:2109" ph="{...}" />
             <marker date="1524044419653" expanded="true" signature="2188:2293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <marker date="1524046659512" expanded="false" signature="6:78" ph="..." />
+            <marker date="1524046659512" expanded="true" signature="120:627" ph="{...}" />
+            <marker date="1524046659512" expanded="true" signature="280:351" ph="{...}" />
+            <marker date="1524046659512" expanded="true" signature="405:625" ph="{...}" />
           </folding>
         </state>
       </provider>
