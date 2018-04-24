@@ -18,15 +18,15 @@ public class Example_0_1 : MonoBehaviour
 
 	public Example_0_1_Walker Walker;
 
-	//private GameObject sphere;
+	private GameObject sphere;
 	
 	// Use this for initialization
 	void Start ()
 	{
-		Walker = new GameObject().AddComponent<Example_0_1_Walker>();
+		Walker = new Example_0_1_Walker(CSizeX/2, CSizeY/2, 0f);
 		Debug.Log(Walker);
-		//sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		//sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
+		sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+		sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 
 	}
 	
@@ -36,7 +36,7 @@ public class Example_0_1 : MonoBehaviour
 		Debug.Log(Walker);
 		Debug.Log(Walker.position);
 		Walker.RandomMove();
-		Walker.Display();
-//		sphere.transform.position = Walker.position/10;
+		//Walker.Display();
+		sphere.transform.position = Walker.position/10;
 	}
 }

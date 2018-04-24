@@ -21,7 +21,7 @@ public class Example_0_1_Walker : MonoBehaviour
 		Debug.Log(x + " " + y + " " + size +"Constructor run");
 		position = new Vector3(x, y, 0f);
 		sphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		Debug.Log(sphere + "Constructor");
+		//Debug.Log(sphere + "Constructor");
 		sphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
 	}
 	
