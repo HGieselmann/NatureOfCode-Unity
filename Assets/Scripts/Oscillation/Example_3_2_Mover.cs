@@ -14,9 +14,11 @@ public class Example_3_2_Mover : MonoBehaviour {
 	private Vector3 velocity;
 	private Vector3 acceleration;
 	public float mass = 1f;
-	float angularAcc = 0.001f;
-	private Vector3 angularVel;
-	private Vector3 angle;
+
+	// Everything to do with angular motion
+	public float angularAcc = 0f;
+	public Vector3 angularVel;
+	public Vector3 rotation;
 	
 	Vector3 f;
 	
@@ -34,6 +36,12 @@ public class Example_3_2_Mover : MonoBehaviour {
 	{
 		f = force /  mass;
 		acceleration += f;
+
+		angularAcc = acceleration.x;
+		angularVel += new Vector3(0, 0, angularAcc);
+		
+		
+		
 	}
 
 	public void UpdatePosition(	)
@@ -41,6 +49,10 @@ public class Example_3_2_Mover : MonoBehaviour {
 		velocity += acceleration * Time.deltaTime;
 		location += velocity ;
 		acceleration *= 0f;
+		rotation += angularVel;
+		angularAcc *= 0f;
+
+
 	}
 
 	public void CheckEdges()

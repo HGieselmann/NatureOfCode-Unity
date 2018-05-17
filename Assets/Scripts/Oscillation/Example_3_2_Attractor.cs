@@ -26,7 +26,7 @@ public class Example_3_2_Attractor : MonoBehaviour
 		AttractorSphere.transform.localScale = new Vector3(mass / 10, mass/10, mass/10);
 	}
 
-	public Vector3 attract(Example_2_7_Mover m)
+	public Vector3 attract(Example_3_2_Mover m)
 	{
 		Vector3 force = location - m.location;
 		float distance = force.magnitude;

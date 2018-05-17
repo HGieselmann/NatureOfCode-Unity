@@ -1,49 +1,77 @@
-﻿using System;
+﻿// THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK "THE NATURE OF CODE" //
+// The Original is found here: http://natureofcode.com/ and Licensed under : -----//
+// Creative Commons Attribution-NonCommercial 3.0 Unported License. --------------//
+// The Code Examples are licensend under:  GNU Lesser General Public License. ----//
+// And so this Code is also licensed under:  GNU Lesser General Public License ---//
+// I merely try to convert the Examples for Unity for personal use. If this helps //
+// anyone else, I'm glad you found this Repo. Enjoy! -----------------------------//
+
+
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 public class Example_3_2 : MonoBehaviour
 {
-	private Example_3_2_Attractor _attractor;
-	private Example_3_2_Mover[] movers = new Example_3_2_Mover[20];
 
-	[SerializeField] float sphereScale = 1f;
-	[SerializeField] float sphereDistance = 1f;
-	float angularAcc = 0.001f;
-
-	private Vector3 angularVel;
-	private Vector3 angle;
+	public float CSizeX = 16;
+	public float CSizeY = 9;
 	
-	private GameObject nullObject;
-	private GameObject sphere1;
-	private GameObject sphere2;
-	private GameObject line;
 
+	// This is setup with Arrays on puropse, to be able to play with it faster
+	public Example_3_2_Attractor Attractor;
+	
+	[SerializeField] static int NoOfSpheres = 20;
+	private Example_3_2_Mover[] movers = new Example_3_2_Mover[NoOfSpheres];
+	private GameObject[] spheres = new GameObject[NoOfSpheres];
+	
+	[SerializeField] Vector3 wind = new Vector3(0f, 0f, 0f);
+	[SerializeField] Vector3 gravity = new Vector3(0f, -0f, 0f);
 	// Use this for initialization
 	void Start ()
 	{
-
-		// Initialize null
-		nullObject = GameObject.CreatePrimitive(PrimitiveType.Quad);
-		// initialize spheres and Line
-		sphere1 = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		sphere2 = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		sphere1.transform.localScale = new Vector3(sphereScale, sphereScale, sphereScale);
-		sphere2.transform.localScale = new Vector3(sphereScale, sphereScale, sphereScale);
-		sphere1.transform.position = new Vector3(sphereDistance, 0f, 0f);
-		sphere2.transform.position = new Vector3(-sphereDistance, 0f, 0f);
-		//Set parents
-		sphere1.transform.parent = nullObject.transform;
-		sphere2.transform.parent = nullObject.transform;
+		Attractor = new Example_3_2_Attractor(CSizeX/2, CSizeY/2, 3, 0.2f);
 		
+		for (int i = 0; i < movers.Length; i++)
+		{
+			
+			// TODO Fix NEW Warning when instatiating, make mono happy.
+			movers[i] = new Example_3_2_Mover(UnityEngine.Random.value*4, (UnityEngine.Random.value -0.5f)* 20);
+			spheres[i] = GameObject.CreatePrimitive(PrimitiveType.Cube);
+			spheres[i].transform.position =
+				new Vector3(UnityEngine.Random.value, UnityEngine.Random.value, UnityEngine.Random.value);
+		}
+
+
 
 
 	}
 	
 	// Update is called once per frame
-	void Update()
+	void Update ()
 	{
+		for (int i = 0; i < movers.Length; i++)
+		{
+			Vector3 force = Attractor.attract(movers[i]);
+			movers[i].applyForce(force);
+			//movers[i].applyForce(wind);
+			//movers[i].applyForce(gravity);
+			movers[i].UpdatePosition();
+			//movers[i].CheckEdges();
+			spheres[i].transform.position = new Vector3(movers[i].location.x, movers[i].location.y, 0f);
+			spheres[i].transform.rotation = Quaternion.Euler(new Vector3(movers[i].rotation.x, movers[i].rotation.y, movers[i].rotation.z));
+			
+			
+		}
+
+
+
 
 	}
+	
+
+
 }
