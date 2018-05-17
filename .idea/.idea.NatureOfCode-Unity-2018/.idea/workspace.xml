@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="" />
+    <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +20,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="500">
-              <caret line="42" column="70" lean-forward="false" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+              <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="72" />
               <folding>
                 <marker date="1526561695429" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
                 <marker date="1526561695429" expanded="true" signature="603:689" ph="..." />
@@ -30,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_3_2_Mover.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_3_2_Mover.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="638">
-              <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+              <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
               <folding>
                 <marker date="1526562142492" expanded="false" signature="6:92" ph="..." />
                 <marker date="1526562142492" expanded="true" signature="143:1470" ph="{...}" />
@@ -67,15 +72,68 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="Example_1_10.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="22" column="66" lean-forward="false" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+              <folding>
+                <marker date="1526572248512" expanded="false" signature="6:92" ph="..." />
+                <marker date="1526572248512" expanded="true" signature="138:814" ph="{...}" />
+                <marker date="1526572248512" expanded="true" signature="334:487" ph="{...}" />
+                <marker date="1526572248512" expanded="true" signature="541:808" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_3_3.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="440">
+              <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+              <folding>
+                <marker date="1526574669593" expanded="false" signature="6:92" ph="..." />
+                <marker date="1526574669593" expanded="true" signature="137:936" ph="{...}" />
+                <marker date="1526574669593" expanded="true" signature="333:543" ph="{...}" />
+                <marker date="1526574669593" expanded="true" signature="597:930" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_3_3_Mover.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding>
+                <marker date="1526574498568" expanded="false" signature="6:92" ph="..." />
+                <marker date="1526574498568" expanded="true" signature="143:1421" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="468:666" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="714:1161" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="1188:1417" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="1218:1245" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="1270:1302" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="1330:1357" ph="{...}" />
+                <marker date="1526574498568" expanded="true" signature="1382:1414" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -84,6 +142,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_9.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" />
       </list>
     </option>
   </component>
@@ -161,12 +222,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1526560487677</updated>
-      <workItem from="1526560493293" duration="2274000" />
+      <workItem from="1526560493293" duration="5524000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2274000" />
+    <option name="totallyTimeSpent" value="5524000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -237,10 +298,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" column="8" lean-forward="false" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+          <folding>
+            <marker date="1526562142492" expanded="false" signature="6:92" ph="..." />
+            <marker date="1526562142492" expanded="true" signature="143:1470" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="556:772" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="812:948" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="980:1126" ph="{...}" />
+            <marker date="1526562142492" expanded="false" signature="1153:1466" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="1183:1236" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="1261:1309" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="1337:1390" ph="{...}" />
+            <marker date="1526562142492" expanded="true" signature="1415:1463" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
-          <caret line="42" column="70" lean-forward="false" selection-start-line="42" selection-start-column="70" selection-end-line="42" selection-end-column="70" />
+          <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="72" />
           <folding>
             <marker date="1526561695429" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
             <marker date="1526561695429" expanded="true" signature="603:689" ph="..." />
@@ -254,21 +334,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="41" column="8" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state relative-caret-position="418">
+          <caret line="22" column="66" lean-forward="false" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
           <folding>
-            <marker date="1526562142492" expanded="false" signature="6:92" ph="..." />
-            <marker date="1526562142492" expanded="true" signature="143:1470" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="556:772" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="812:948" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="980:1126" ph="{...}" />
-            <marker date="1526562142492" expanded="false" signature="1153:1466" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="1183:1236" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="1261:1309" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="1337:1390" ph="{...}" />
-            <marker date="1526562142492" expanded="true" signature="1415:1463" ph="{...}" />
+            <marker date="1526572248512" expanded="false" signature="6:92" ph="..." />
+            <marker date="1526572248512" expanded="true" signature="138:814" ph="{...}" />
+            <marker date="1526572248512" expanded="true" signature="334:487" ph="{...}" />
+            <marker date="1526572248512" expanded="true" signature="541:808" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <marker date="1526574498568" expanded="false" signature="6:92" ph="..." />
+            <marker date="1526574498568" expanded="true" signature="143:1421" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="468:666" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="714:1161" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="1188:1417" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="1218:1245" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="1270:1302" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="1330:1357" ph="{...}" />
+            <marker date="1526574498568" expanded="true" signature="1382:1414" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="23" column="61" lean-forward="false" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
+          <folding>
+            <marker date="1526574669593" expanded="false" signature="6:92" ph="..." />
+            <marker date="1526574669593" expanded="true" signature="137:936" ph="{...}" />
+            <marker date="1526574669593" expanded="true" signature="333:543" ph="{...}" />
+            <marker date="1526574669593" expanded="true" signature="597:930" ph="{...}" />
           </folding>
         </state>
       </provider>
