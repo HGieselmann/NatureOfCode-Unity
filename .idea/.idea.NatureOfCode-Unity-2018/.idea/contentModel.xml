@@ -55,6 +55,10 @@
             <e p="Example_3_2_Mover.cs" t="Include" />
             <e p="Example_3_3.cs" t="Include" />
             <e p="Example_3_3_Mover.cs" t="Include" />
+            <e p="Example_3_4.cs" t="Include" />
+            <e p="Example_3_5.cs" t="Include" />
+            <e p="Example_3_6.cs" t="Include" />
+            <e p="Example_3_7.cs" t="Include" />
           </e>
           <e p="Vectors" t="Include">
             <e p="Example_1_10.cs" t="Include" />
