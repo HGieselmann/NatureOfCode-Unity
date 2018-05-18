@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,10 +28,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_3_7.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_3_7.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="685">
+            <state relative-caret-position="751">
               <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
               <folding>
                 <marker date="1526639874377" expanded="true" signature="6:121" ph="..." />
@@ -50,41 +48,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_1_11.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs">
+      <file leaf-file-name="Example_3_8.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="12" column="18" lean-forward="false" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+            <state relative-caret-position="824">
+              <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
               <folding>
-                <marker date="1523371409514" expanded="true" signature="0:594" ph="/* THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK &quot;THE NATURE OF CODE&quot; ... */" />
-                <marker date="1523371409514" expanded="false" signature="603:689" ph="..." />
-                <marker date="1523371409514" expanded="true" signature="734:1829" ph="{...}" />
-                <marker date="1523371409514" expanded="true" signature="913:1021" ph="/* GameObject.CreatePrimitive(PrimitiveType.Sphere); ... */" />
-                <marker date="1523371409514" expanded="true" signature="1149:1443" ph="{...}" />
-                <marker date="1523371409514" expanded="true" signature="1193:1436" ph="{...}" />
-                <marker date="1523371409514" expanded="true" signature="1497:1823" ph="{...}" />
-                <marker date="1523371409514" expanded="true" signature="1648:1815" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_1_11_Mover.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-24">
-              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="33" />
-              <folding>
-                <marker date="1523364271580" expanded="true" signature="6:92" ph="..." />
-                <marker date="1523364271580" expanded="true" signature="144:1564" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="441:639" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="687:1050" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1095:1304" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1331:1560" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1361:1388" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1413:1445" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1473:1500" ph="{...}" />
-                <marker date="1523364271580" expanded="true" signature="1525:1557" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="6:121" ph="..." />
+                <marker date="1526641927790" expanded="true" signature="163:974" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="422:732" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="472:724" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="786:972" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="840:966" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="1021:1600" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="1274:1404" ph="{...}" />
+                <marker date="1526641927790" expanded="true" signature="1468:1590" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -96,18 +74,20 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_4.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,6 +103,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" />
       </list>
     </option>
   </component>
@@ -201,12 +183,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526560487677</updated>
       <workItem from="1526560493293" duration="6123000" />
-      <workItem from="1526630723687" duration="8104000" />
+      <workItem from="1526630723687" duration="9904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14227000" />
+    <option name="totallyTimeSpent" value="16027000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -523,7 +505,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="685">
+        <state relative-caret-position="751">
           <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
           <folding>
             <marker date="1526639874377" expanded="true" signature="6:121" ph="..." />
@@ -535,6 +517,42 @@
             <marker date="1526639874377" expanded="true" signature="961:1680" ph="{...}" />
             <marker date="1526639874377" expanded="true" signature="1188:1444" ph="{...}" />
             <marker date="1526639874377" expanded="true" signature="1508:1670" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding>
+            <marker date="1526641858993" expanded="false" signature="6:121" ph="..." />
+            <marker date="1526641858993" expanded="true" signature="163:974" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="422:732" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="472:724" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="786:972" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="840:966" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="1021:1598" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="1274:1404" ph="{...}" />
+            <marker date="1526641858993" expanded="true" signature="1468:1588" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="824">
+          <caret line="70" column="10" lean-forward="false" selection-start-line="70" selection-start-column="10" selection-end-line="70" selection-end-column="10" />
+          <folding>
+            <marker date="1526641927790" expanded="true" signature="6:121" ph="..." />
+            <marker date="1526641927790" expanded="true" signature="163:974" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="422:732" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="472:724" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="786:972" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="840:966" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="1021:1600" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="1274:1404" ph="{...}" />
+            <marker date="1526641927790" expanded="true" signature="1468:1590" ph="{...}" />
           </folding>
         </state>
       </provider>
