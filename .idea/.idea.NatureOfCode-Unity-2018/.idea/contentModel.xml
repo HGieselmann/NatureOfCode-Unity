@@ -49,8 +49,10 @@
             <e p="Example_0_5.cs" t="Include" />
           </e>
           <e p="Oscillation" t="Include">
+            <e p="Bob.cs" t="Include" />
             <e p="Example_3_1.cs" t="Include" />
             <e p="Example_3_10.cs" t="Include" />
+            <e p="Example_3_11.cs" t="Include" />
             <e p="Example_3_2.cs" t="Include" />
             <e p="Example_3_2_Attractor.cs" t="Include" />
             <e p="Example_3_2_Mover.cs" t="Include" />
@@ -62,6 +64,7 @@
             <e p="Example_3_7.cs" t="Include" />
             <e p="Example_3_8.cs" t="Include" />
             <e p="Example_3_9.cs" t="Include" />
+            <e p="Spring.cs" t="Include" />
           </e>
           <e p="Vectors" t="Include">
             <e p="Example_1_10.cs" t="Include" />

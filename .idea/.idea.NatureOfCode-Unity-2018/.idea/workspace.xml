@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs.meta" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs.meta" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -88,10 +91,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_3_10.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_3_10.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
+            <state relative-caret-position="1209">
               <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
               <folding>
                 <marker date="1526822790805" expanded="true" signature="6:159" ph="..." />
@@ -103,6 +106,50 @@
                 <marker date="1526822790805" expanded="true" signature="1312:1374" ph="{...}" />
                 <marker date="1526822790805" expanded="true" signature="1402:1607" ph="{...}" />
                 <marker date="1526822790805" expanded="true" signature="1638:1749" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_3_11.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+              <folding>
+                <marker date="1526826293714" expanded="false" signature="6:78" ph="..." />
+                <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
+                <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
+                <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bob.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+              <folding>
+                <marker date="1526825627459" expanded="true" signature="36:686" ph="{...}" />
+                <marker date="1526825627459" expanded="true" signature="256:386" ph="{...}" />
+                <marker date="1526825627459" expanded="true" signature="412:544" ph="{...}" />
+                <marker date="1526825627459" expanded="true" signature="588:684" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Spring.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding>
+                <marker date="1526826176863" expanded="true" signature="39:576" ph="{...}" />
+                <marker date="1526826176863" expanded="true" signature="220:298" ph="{...}" />
+                <marker date="1526826176863" expanded="true" signature="333:574" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -121,13 +168,16 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -147,6 +197,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" />
       </list>
     </option>
   </component>
@@ -161,6 +214,9 @@
     <option name="y" value="49" />
     <option name="width" value="1300" />
     <option name="height" value="1390" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="SolutionExplorer" proportions="" version="1">
@@ -232,12 +288,12 @@
       <updated>1526560487677</updated>
       <workItem from="1526560493293" duration="6123000" />
       <workItem from="1526630723687" duration="11175000" />
-      <workItem from="1526817160353" duration="3677000" />
+      <workItem from="1526817160353" duration="7059000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20975000" />
+    <option name="totallyTimeSpent" value="24357000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -262,7 +318,7 @@
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11076389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32977387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -512,9 +568,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <marker date="1526825627459" expanded="true" signature="36:686" ph="{...}" />
+            <marker date="1526825627459" expanded="true" signature="256:386" ph="{...}" />
+            <marker date="1526825627459" expanded="true" signature="412:544" ph="{...}" />
+            <marker date="1526825627459" expanded="true" signature="588:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding>
+            <marker date="1526826176863" expanded="true" signature="39:576" ph="{...}" />
+            <marker date="1526826176863" expanded="true" signature="220:298" ph="{...}" />
+            <marker date="1526826176863" expanded="true" signature="333:574" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
+        <state relative-caret-position="1209">
           <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
           <folding>
             <marker date="1526822790805" expanded="true" signature="6:159" ph="..." />
@@ -526,6 +607,19 @@
             <marker date="1526822790805" expanded="true" signature="1312:1374" ph="{...}" />
             <marker date="1526822790805" expanded="true" signature="1402:1607" ph="{...}" />
             <marker date="1526822790805" expanded="true" signature="1638:1749" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1526826293714" expanded="false" signature="6:78" ph="..." />
+            <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
+            <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
+            <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
           </folding>
         </state>
       </provider>
