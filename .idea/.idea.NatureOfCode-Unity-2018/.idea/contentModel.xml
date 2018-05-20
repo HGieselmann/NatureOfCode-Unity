@@ -50,6 +50,7 @@
           </e>
           <e p="Oscillation" t="Include">
             <e p="Example_3_1.cs" t="Include" />
+            <e p="Example_3_10.cs" t="Include" />
             <e p="Example_3_2.cs" t="Include" />
             <e p="Example_3_2_Attractor.cs" t="Include" />
             <e p="Example_3_2_Mover.cs" t="Include" />
