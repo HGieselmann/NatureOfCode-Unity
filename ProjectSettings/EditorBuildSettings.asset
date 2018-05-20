@@ -6,6 +6,111 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/Introduction/Example_0_1.unity
+    guid: e1912a5bff6ed5e4b9e697c6488aef64
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Example_0_2.unity
+    guid: 49626c16e057f8643bd9422e9b339dde
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Example_0_3.unity
+    guid: 356c12220f79baf40a569d1d09406e1a
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Example_0_4.unity
+    guid: 8f30868da252ed34baf807a9b7ea6543
+  - enabled: 1
+    path: Assets/Scenes/Introduction/Example_0_5.unity
+    guid: 0a40b703eb5c1f042bba2c62f4049386
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-1.unity
+    guid: 4b21089ddadd7ea4ca49924fec165e72
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-2.unity
+    guid: a9f5f4248b76b824b991fd8c87022fb1
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-2-3D.unity
+    guid: 9daea984bb6c86e45b3a11409032e160
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-3.unity
+    guid: 5d2337e2c51fe0e4e8f308edffc5ebb2
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-4.unity
+    guid: 68a2a00d5b5c52545a617b235235c708
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-5.unity
+    guid: 329f213945b735c49b26fc68ee167a37
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-6.unity
+    guid: 95d1945e38239f547873ecbfabc0f228
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-7.unity
+    guid: 10b8c36d9f226d9469eda53f72b4effb
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-8.unity
+    guid: c34773c7b9b2b11469a151a9c5ce4584
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-9.unity
+    guid: 7046ec658c26b7b46ba86d70195a1aaf
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example1-10.unity
+    guid: c21c1813284d7cd4bb3d482d63c2289c
+  - enabled: 1
+    path: Assets/Scenes/Vectors/Example-1-11.unity
+    guid: c9b49714817fd3e4ab06317ecbe8e63b
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-1.unity
+    guid: 3da64f290224e6441a1055b04ecaf5cb
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-2.unity
+    guid: fe5299110f324df43b81f52a5d6b3588
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-3.unity
+    guid: 746ebf202a21cbd49a600dde0a9dd4d5
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-4.unity
+    guid: 1042f6517363502448b6cc26937bb4bd
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-5.unity
+    guid: e94f2251f6154c54289112febf793bb5
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-6.unity
+    guid: 6e8fcb51b94c6344bbe9ee501adbfbcf
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-7.unity
+    guid: 5a5ff4709a579594db1263fbd1d9fa43
+  - enabled: 1
+    path: Assets/Scenes/Forces/Example-2-8.unity
+    guid: e3890a7432d19a648b0d51fb0b9fe426
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_1.unity
+    guid: dd0875a08fee7f644b236bbfa8407582
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_2.unity
+    guid: 6ba09f7de5668dc4ea05c1f4e30b98f8
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_3.unity
+    guid: 4848e75f35dcd744f9c179c8966b5791
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_4.unity
+    guid: 90c908a7da4099549ad08ee1471aad37
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_5.unity
+    guid: 764e505500ce3d847844a0f541d802f0
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_6.unity
+    guid: 5d0b797e5a4327443ba03d9517272d33
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_7.unity
+    guid: ba0ab2b0302b78144ac3a25d20ac5e8a
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_8.unity
+    guid: 47ae18502d35182459252a558ad6f0d6
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_9.unity
+    guid: 6bdfd0f9f47673a43afd8ba757539832
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_10.unity
+    guid: 5b3cbb382e8187a4f86ed717849e58d1
+  - enabled: 1
+    path: Assets/Scenes/Oscillation/Example_3_11.unity
+    guid: 1c722edb90646bd45a84604b39cd3812
   m_configObjects: {}

@@ -2,12 +2,46 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs.meta" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs.meta" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,7 +145,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_3_11.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_3_11.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="396">
@@ -121,6 +155,23 @@
                 <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
                 <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
                 <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LevelManager.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <marker date="1526829426315" expanded="true" signature="6:113" ph="..." />
+                <marker date="1526829426315" expanded="true" signature="156:775" ph="{...}" />
+                <marker date="1526829426315" expanded="true" signature="209:282" ph="{...}" />
+                <marker date="1526829426315" expanded="true" signature="311:451" ph="{...}" />
+                <marker date="1526829426315" expanded="true" signature="484:624" ph="{...}" />
+                <marker date="1526829426315" expanded="true" signature="647:768" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -161,6 +212,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" root0="FORCE_HIGHLIGHTING" />
@@ -200,6 +252,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
       </list>
     </option>
   </component>
@@ -210,10 +263,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="4297" />
-    <option name="y" value="49" />
-    <option name="width" value="1300" />
-    <option name="height" value="1390" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="2902" />
+    <option name="height" value="1762" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -288,12 +341,12 @@
       <updated>1526560487677</updated>
       <workItem from="1526560493293" duration="6123000" />
       <workItem from="1526630723687" duration="11175000" />
-      <workItem from="1526817160353" duration="7059000" />
+      <workItem from="1526817160353" duration="10080000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24357000" />
+    <option name="totallyTimeSpent" value="27378000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -305,7 +358,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="3829" y="-11" width="2902" height="1762" extended-state="6" />
+    <frame x="-11" y="-11" width="2582" height="1402" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -316,7 +369,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11076389" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12460937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -620,6 +673,21 @@
             <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
             <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
             <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <marker date="1526829426315" expanded="true" signature="6:113" ph="..." />
+            <marker date="1526829426315" expanded="true" signature="156:775" ph="{...}" />
+            <marker date="1526829426315" expanded="true" signature="209:282" ph="{...}" />
+            <marker date="1526829426315" expanded="true" signature="311:451" ph="{...}" />
+            <marker date="1526829426315" expanded="true" signature="484:624" ph="{...}" />
+            <marker date="1526829426315" expanded="true" signature="647:768" ph="{...}" />
           </folding>
         </state>
       </provider>
