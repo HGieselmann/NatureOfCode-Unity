@@ -57,14 +57,9 @@ public class ParticleSystem_4_3 : MonoBehaviour
 
 	public void AddParticle()
 	{
-		particles.Add(new Particle_4_3(new Vector3(8, 8,0),1f, RandV()));
+		particles.Add(new Particle_4_3(new Vector3(8, 8,0),1f, CS.RandVec3DXY(-0.1f, 0.1f)));
 	}
 	
-	public Vector3 RandV()
-	{
-		Vector3 v = new Vector3(UnityEngine.Random.Range(-0.1f, .1f), UnityEngine.Random.RandomRange(-0.1f, .1f), 0f);
-		return v;
-	}
 }
 
 public class Particle_4_3
