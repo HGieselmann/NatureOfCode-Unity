@@ -25,11 +25,9 @@ public class LevelManager : MonoBehaviour
         
         SceneManager.LoadScene(currentscene - 1);
     }
-    public void Home()
+    public void DirectSelect(int _level)
         {
-            int currentscene = scene.buildIndex;
-            
-            SceneManager.LoadScene(0);
+            SceneManager.LoadScene(_level);
         }
     
 }

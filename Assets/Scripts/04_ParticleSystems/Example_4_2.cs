@@ -18,7 +18,7 @@ public class Example_4_2 : MonoBehaviour
 	void Update ()
 	{
 
-		PList.Add(new Particle_4_2(new Vector3(8, 8,0),1f, RandV()));
+		PList.Add(new Particle_4_2(new Vector3(8, 8,0),1f, CS.RandVec3DXY(-0.1f, 0.1f)));
 		for (int i = PList.Count-1; i >= 0; i--)
 		{
 			PList[i].run();
@@ -30,11 +30,6 @@ public class Example_4_2 : MonoBehaviour
 		}	
 	}
 
-	public Vector3 RandV()
-	{
-		Vector3 v = new Vector3(UnityEngine.Random.Range(-0.1f, .1f), UnityEngine.Random.RandomRange(-0.1f, .1f), 0f);
-		return v;
-	}
 }
 
 

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
+using System.Security.Cryptography;
 using UnityEngine;
 
 public class Example_4_1 : MonoBehaviour
@@ -10,7 +11,7 @@ public class Example_4_1 : MonoBehaviour
 
 	// Use this for initialization
 	void Start () {
-		ps = new Particle_4_1(new Vector3(8, 8, 0), 1f, RandV() );
+		ps = new Particle_4_1(new Vector3(8, 8, 0), 1f, CS.RandVec3DXY(-0.1f, 0.1f) );
 		
 	}
 	
@@ -21,15 +22,10 @@ public class Example_4_1 : MonoBehaviour
 		if (ps.isDead())
 		{
 			Destroy(ps.sphere);
-			ps = new Particle_4_1(new Vector3(8, 8,0),1f, RandV() );
+			ps = new Particle_4_1(new Vector3(8, 8,0),1f, CS.RandVec3DXY(-0.1f, 0.1f) );
 		}
 	}
 
-	public Vector3 RandV()
-	{
-		Vector3 v = new Vector3(UnityEngine.Random.Range(-0.1f, .1f), UnityEngine.Random.RandomRange(-0.1f, .1f), 0f);
-		return v;
-	}
 }
 
 

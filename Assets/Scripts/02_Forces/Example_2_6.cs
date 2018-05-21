@@ -28,9 +28,6 @@ public class Example_2_6 : MonoBehaviour
 	private Example_2_6_Mover[] movers = new Example_2_6_Mover[NoOfSpheres];
 	private GameObject[] spheres = new GameObject[NoOfSpheres];
 	
-	[SerializeField] Vector3 wind = new Vector3(0f, 0f, 0f);
-	[SerializeField] Vector3 gravity = new Vector3(0f, -0f, 0f);
-	// Use this for initialization
 	void Start ()
 	{
 		Attractor = new Example_2_6_Attractor(CSizeX/2, CSizeY/2, 3, 0.4f);
