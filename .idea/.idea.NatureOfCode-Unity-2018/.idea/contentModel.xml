@@ -88,6 +88,7 @@
           <e p="04_ParticleSystems" t="Include">
             <e p="Example_4_1.cs" t="Include" />
             <e p="Example_4_2.cs" t="Include" />
+            <e p="Example_4_3.cs" t="Include" />
           </e>
           <e p="other" t="Include">
             <e p="LevelManager.cs" t="Include" />
