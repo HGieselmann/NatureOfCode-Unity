@@ -1,0 +1,102 @@
+﻿// THIS IS A PORT OF THE EXAMPLES FROM DANIEL SHIFFMANS BOOK "THE NATURE OF CODE" //
+// The Original is found here: http://natureofcode.com/ and Licensed under : -----//
+// Creative Commons Attribution-NonCommercial 3.0 Unported License. --------------//
+// The Code Examples are licensend under:  GNU Lesser General Public License. ----//
+// And so this Code is also licensed under:  GNU Lesser General Public License ---//
+// I merely try to convert the Examples for Unity for personal use. If this helps //
+// anyone else, I'm glad you found this Repo. Enjoy! -----------------------------//
+
+// Special Thanks to "Rem", "Dora The Explorer" and "The Sith" @ N3K -------------//
+
+
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using JetBrains.Annotations;
+using UnityEngine;
+
+
+
+public class Exercise_2_8 : MonoBehaviour
+{
+	private float timeLeft = 10f;
+	
+	public float CSizeX = 16;
+	public float CSizeY = 9;
+
+	public Material refMaterial;
+	
+
+	// This is setup with Arrays on puropse, to be able to play with it faster
+	public Exercise_2_8_Attractor Attractor;
+	
+	[SerializeField] static int NoOfSpheres = 15;
+	private Exercise_2_8_Mover[] movers = new Exercise_2_8_Mover[NoOfSpheres];
+	private GameObject[] spheres = new GameObject[NoOfSpheres];
+	
+	[SerializeField] Vector3 wind = new Vector3(0f, 0f, 0f);
+	[SerializeField] Vector3 gravity = new Vector3(0f, -0f, 0f);
+	// Use this for initialization
+	void Start ()
+	{
+		Attractor = new Exercise_2_8_Attractor(CSizeX/2, CSizeY/2, 1, 0.2f);
+		
+		for (int i = 0; i < movers.Length; i++)
+		{
+			
+			// TODO Fix NEW Warning when instatiating, make mono happy.
+			movers[i] = new Exercise_2_8_Mover(UnityEngine.Random.value*4, (UnityEngine.Random.value -0.5f)* 20);
+			spheres[i] = GameObject.CreatePrimitive(PrimitiveType.Sphere);
+			spheres[i].transform.position =
+				new Vector3(UnityEngine.Random.value, UnityEngine.Random.value, UnityEngine.Random.value);
+			spheres[i].transform.localScale=
+				new Vector3(0.02f, 0.02f, 0.02f);
+			spheres[i].GetComponent<Renderer>().material = refMaterial;
+
+		}
+
+
+
+
+	}
+	
+	// Update is called once per frame
+	void Update ()
+	{
+		for (int i = 0; i < movers.Length; i++)
+		{
+			Vector3 force = Attractor.attract(movers[i]);
+			movers[i].applyForce(force);
+			//movers[i].applyForce(wind);
+			//movers[i].applyForce(gravity);
+			movers[i].UpdatePosition();
+			//movers[i].CheckEdges();
+			spheres[i].transform.position = new Vector3(movers[i].location.x, movers[i].location.y, 0f);
+
+		}
+		timeLeft -= Time.deltaTime;
+		if (timeLeft <= 0)
+		{
+			capture();
+			Invoke("ClearScreen", 1f);
+			for (int i = 0; i < movers.Length; i++)
+			{
+				movers[i] = new Exercise_2_8_Mover(UnityEngine.Random.value * 4, (UnityEngine.Random.value - 0.5f) * 20);
+			}
+			timeLeft += 2000;
+		}
+	}
+
+	private void ClearScreen()
+	{
+		GL.Clear(true, true, Color.black, 0f);
+	}
+
+	void capture()
+	{
+		ScreenCapture.CaptureScreenshot("screenshot"+Time.time+".png");
+	}
+	
+
+
+}
