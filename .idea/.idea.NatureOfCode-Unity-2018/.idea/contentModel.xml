@@ -14,7 +14,35 @@
           </e>
         </e>
         <e p="Scripts" t="Include">
-          <e p="Forces" t="Include">
+          <e p="00_Introduction" t="Include">
+            <e p="Example_0_1.cs" t="Include" />
+            <e p="Example_0_1_Walker.cs" t="Include" />
+            <e p="Example_0_2.cs" t="Include" />
+            <e p="Example_0_3.cs" t="Include" />
+            <e p="Example_0_3_Walker.cs" t="Include" />
+            <e p="Example_0_4.cs" t="Include" />
+            <e p="Example_0_5.cs" t="Include" />
+          </e>
+          <e p="01_Vectors" t="Include">
+            <e p="Example_1_10.cs" t="Include" />
+            <e p="Example_1_10_Mover.cs" t="Include" />
+            <e p="Example_1_11.cs" t="Include" />
+            <e p="Example_1_11_Mover.cs" t="Include" />
+            <e p="Example_1_6.cs" t="Include" />
+            <e p="Example_1_7.cs" t="Include" />
+            <e p="Example_1_7_Mover.cs" t="Include" />
+            <e p="Example_1_8.cs" t="Include" />
+            <e p="Example_1_8_Mover.cs" t="Include" />
+            <e p="Example_1_9.cs" t="Include" />
+            <e p="Example_1_9_Mover.cs" t="Include" />
+            <e p="ExampleOneFive.cs" t="Include" />
+            <e p="ExampleOneFour.cs" t="Include" />
+            <e p="ExampleOneOne.cs" t="Include" />
+            <e p="ExampleOneThree.cs" t="Include" />
+            <e p="ExampleOneTwo.cs" t="Include" />
+            <e p="ExampleOneTwo_3D.cs" t="Include" />
+          </e>
+          <e p="02_Forces" t="Include">
             <e p="Example_2_1.cs" t="Include" />
             <e p="Example_2_1_Mover.cs" t="Include" />
             <e p="Example_2_2.cs" t="Include" />
@@ -39,17 +67,7 @@
             <e p="Exercise_2_8_Attractor.cs" t="Include" />
             <e p="Exercise_2_8_Mover.cs" t="Include" />
           </e>
-          <e p="Introduction" t="Include">
-            <e p="Example_0_1.cs" t="Include" />
-            <e p="Example_0_1_Walker.cs" t="Include" />
-            <e p="Example_0_2.cs" t="Include" />
-            <e p="Example_0_3.cs" t="Include" />
-            <e p="Example_0_3_Walker.cs" t="Include" />
-            <e p="Example_0_4.cs" t="Include" />
-            <e p="Example_0_5.cs" t="Include" />
-          </e>
-          <e p="LevelManager.cs" t="Include" />
-          <e p="Oscillation" t="Include">
+          <e p="03_Oscillation" t="Include">
             <e p="Bob.cs" t="Include" />
             <e p="Example_3_1.cs" t="Include" />
             <e p="Example_3_10.cs" t="Include" />
@@ -67,24 +85,11 @@
             <e p="Example_3_9.cs" t="Include" />
             <e p="Spring.cs" t="Include" />
           </e>
-          <e p="Vectors" t="Include">
-            <e p="Example_1_10.cs" t="Include" />
-            <e p="Example_1_10_Mover.cs" t="Include" />
-            <e p="Example_1_11.cs" t="Include" />
-            <e p="Example_1_11_Mover.cs" t="Include" />
-            <e p="Example_1_6.cs" t="Include" />
-            <e p="Example_1_7.cs" t="Include" />
-            <e p="Example_1_7_Mover.cs" t="Include" />
-            <e p="Example_1_8.cs" t="Include" />
-            <e p="Example_1_8_Mover.cs" t="Include" />
-            <e p="Example_1_9.cs" t="Include" />
-            <e p="Example_1_9_Mover.cs" t="Include" />
-            <e p="ExampleOneFive.cs" t="Include" />
-            <e p="ExampleOneFour.cs" t="Include" />
-            <e p="ExampleOneOne.cs" t="Include" />
-            <e p="ExampleOneThree.cs" t="Include" />
-            <e p="ExampleOneTwo.cs" t="Include" />
-            <e p="ExampleOneTwo_3D.cs" t="Include" />
+          <e p="04_ParticleSystems" t="Include">
+            <e p="Example_4_1.cs" t="Include" />
+          </e>
+          <e p="other" t="Include">
+            <e p="LevelManager.cs" t="Include" />
           </e>
         </e>
       </e>

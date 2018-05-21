@@ -7,10 +7,10 @@ public class LevelManager : MonoBehaviour
 {
     private Scene scene;
 
-    public void Update()
-    {
-        Debug.Log(SceneManager.GetActiveScene().buildIndex);
-    }
+//    public void Update()
+//    {
+//        Debug.Log(SceneManager.GetActiveScene().buildIndex);
+//    }
 
     public void NextScene()
     {

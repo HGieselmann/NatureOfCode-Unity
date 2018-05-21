@@ -4,44 +4,217 @@
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/Assets/PreFabs/SceneManagement.prefab" afterPath="$PROJECT_DIR$/Assets/PreFabs/SceneManagement.prefab" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-1.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-2.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-3.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-4.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-5.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-6.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-7.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Example-2-8.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Exercise-2-8.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Forces/Exercise-2-8.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_1.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_2.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_3.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_4.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Introduction/Example_0_5.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_1.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_10.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_11.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_2.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_3.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_4.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_5.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_6.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_7.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_8.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Oscillation/Example_3_9.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example-1-11.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-1.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-10.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2-3D.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-2.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-3.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-4.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-5.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-6.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-7.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-8.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Vectors/Example1-9.unity.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_1.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_1.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_1_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_1_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_2.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_2.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_2_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_2_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_3_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_4_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Liquid.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Liquid.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_5_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Attractor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_6_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Attractor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_7_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8_Attractor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8_Attractor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Example_2_8_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8_Attractor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8_Attractor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Forces/Exercise_2_8_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_1.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_1.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_1_Walker.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_1_Walker.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_2.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_2.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3_Walker.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_3_Walker.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_4.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Introduction/Example_0_5.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_1.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_1.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_4.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_4.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneFive.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneFive.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneFour.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneFour.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneOne.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneOne.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneThree.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneThree.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneTwo.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneTwo.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneTwo_3D.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/ExampleOneTwo_3D.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_6.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_6.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_7.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_7.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_7_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_7_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_8.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_8.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_8_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_8_Mover.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_9.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_9.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_9_Mover.cs" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_9_Mover.cs.meta" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -52,155 +225,43 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="Example_3_6.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs">
+      <file leaf-file-name="Example_4_1.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+            <state relative-caret-position="770">
+              <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
               <folding>
-                <marker date="1526636984257" expanded="false" signature="6:78" ph="..." />
-                <marker date="1526636984257" expanded="true" signature="120:753" ph="{...}" />
-                <marker date="1526636984257" expanded="true" signature="386:457" ph="{...}" />
-                <marker date="1526636984257" expanded="true" signature="511:751" ph="{...}" />
+                <marker date="1526903491732" expanded="false" signature="6:125" ph="..." />
+                <marker date="1526903491732" expanded="true" signature="167:652" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="244:312" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="366:494" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="400:491" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="519:650" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="680:1587" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="913:1111" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1131:1175" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1198:1340" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1364:1473" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1496:1582" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1523:1547" ph="{...}" />
+                <marker date="1526903491732" expanded="true" signature="1554:1579" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_3_7.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs">
+      <file leaf-file-name="LevelManager.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1298">
-              <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
+            <state relative-caret-position="198">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding>
-                <marker date="1526639874377" expanded="true" signature="6:121" ph="..." />
-                <marker date="1526639874377" expanded="true" signature="163:918" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="381:676" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="431:668" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="730:916" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="784:910" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="1188:1444" ph="{...}" />
-                <marker date="1526639874377" expanded="true" signature="1508:1670" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_3_8.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1430">
-              <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-              <folding>
-                <marker date="1526641927790" expanded="true" signature="6:121" ph="..." />
-                <marker date="1526641927790" expanded="true" signature="163:974" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="422:732" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="472:724" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="786:972" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="840:966" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="1274:1404" ph="{...}" />
-                <marker date="1526641927790" expanded="true" signature="1468:1590" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_3_9.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <marker date="1526641858993" expanded="false" signature="6:121" ph="..." />
-                <marker date="1526641858993" expanded="true" signature="163:974" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="422:732" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="472:724" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="786:972" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="840:966" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="1021:1598" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="1274:1404" ph="{...}" />
-                <marker date="1526641858993" expanded="true" signature="1468:1588" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_3_10.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1209">
-              <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-              <folding>
-                <marker date="1526822790805" expanded="true" signature="6:159" ph="..." />
-                <marker date="1526822790805" expanded="true" signature="202:898" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="333:595" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="649:896" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="754:810" ph="/* print(pendulum.location); ... */" />
-                <marker date="1526822790805" expanded="true" signature="922:1755" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="1312:1374" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="1402:1607" ph="{...}" />
-                <marker date="1526822790805" expanded="true" signature="1638:1749" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_3_11.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-              <folding>
-                <marker date="1526826293714" expanded="false" signature="6:78" ph="..." />
-                <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
-                <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
-                <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LevelManager.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-              <folding>
-                <marker date="1526829426315" expanded="true" signature="6:113" ph="..." />
-                <marker date="1526829426315" expanded="true" signature="156:775" ph="{...}" />
-                <marker date="1526829426315" expanded="true" signature="209:282" ph="{...}" />
-                <marker date="1526829426315" expanded="true" signature="311:451" ph="{...}" />
-                <marker date="1526829426315" expanded="true" signature="484:624" ph="{...}" />
-                <marker date="1526829426315" expanded="true" signature="647:768" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Bob.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-              <folding>
-                <marker date="1526825627459" expanded="true" signature="36:686" ph="{...}" />
-                <marker date="1526825627459" expanded="true" signature="256:386" ph="{...}" />
-                <marker date="1526825627459" expanded="true" signature="412:544" ph="{...}" />
-                <marker date="1526825627459" expanded="true" signature="588:684" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Spring.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-              <folding>
-                <marker date="1526826176863" expanded="true" signature="39:576" ph="{...}" />
-                <marker date="1526826176863" expanded="true" signature="220:298" ph="{...}" />
-                <marker date="1526826176863" expanded="true" signature="333:574" ph="{...}" />
+                <marker date="1526901696410" expanded="false" signature="6:113" ph="..." />
+                <marker date="1526901696410" expanded="true" signature="156:783" ph="{...}" />
+                <marker date="1526901696410" expanded="true" signature="185:290" ph="/* public void Update() ... */" />
+                <marker date="1526901696410" expanded="true" signature="319:459" ph="{...}" />
+                <marker date="1526901696410" expanded="true" signature="492:632" ph="{...}" />
+                <marker date="1526901696410" expanded="true" signature="655:776" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -212,25 +273,8 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_5.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3_Mover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_4.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_10.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Attractor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2_Mover.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -253,6 +297,8 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs" />
       </list>
     </option>
   </component>
@@ -286,7 +332,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -294,17 +339,13 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="NatureOfCode-Unity-2018 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="NatureOfCode-Unity-2018 (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -341,12 +382,13 @@
       <updated>1526560487677</updated>
       <workItem from="1526560493293" duration="6123000" />
       <workItem from="1526630723687" duration="11175000" />
-      <workItem from="1526817160353" duration="10080000" />
+      <workItem from="1526817160353" duration="10120000" />
+      <workItem from="1526900220165" duration="3269000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27378000" />
+    <option name="totallyTimeSpent" value="30687000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -371,7 +413,6 @@
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12460937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -381,6 +422,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977387" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -400,12 +442,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <marker date="1526636984257" expanded="false" signature="6:78" ph="..." />
-            <marker date="1526636984257" expanded="true" signature="120:753" ph="{...}" />
-            <marker date="1526636984257" expanded="true" signature="386:457" ph="{...}" />
-            <marker date="1526636984257" expanded="true" signature="511:751" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -413,16 +450,79 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
           <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
-          <folding>
-            <marker date="1526639874377" expanded="true" signature="6:121" ph="..." />
-            <marker date="1526639874377" expanded="true" signature="163:918" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="381:676" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="431:668" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="730:916" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="784:910" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="1188:1444" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="1508:1670" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_8.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1430">
+          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_9.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1386">
+          <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_11.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Bob.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Spring.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_7.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -430,16 +530,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="65" column="4" lean-forward="true" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-          <folding>
-            <marker date="1526641927790" expanded="true" signature="6:121" ph="..." />
-            <marker date="1526641927790" expanded="true" signature="163:974" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="422:732" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="472:724" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="786:972" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="840:966" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="1274:1404" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="1468:1590" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -546,12 +637,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
-          <folding>
-            <marker date="1526636984257" expanded="false" signature="6:78" ph="..." />
-            <marker date="1526636984257" expanded="true" signature="120:753" ph="{...}" />
-            <marker date="1526636984257" expanded="true" signature="386:457" ph="{...}" />
-            <marker date="1526636984257" expanded="true" signature="511:751" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -573,16 +659,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1298">
           <caret line="59" column="113" lean-forward="false" selection-start-line="59" selection-start-column="113" selection-end-line="59" selection-end-column="113" />
-          <folding>
-            <marker date="1526639874377" expanded="true" signature="6:121" ph="..." />
-            <marker date="1526639874377" expanded="true" signature="163:918" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="381:676" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="431:668" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="730:916" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="784:910" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="1188:1444" ph="{...}" />
-            <marker date="1526639874377" expanded="true" signature="1508:1670" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -590,16 +667,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1430">
           <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-          <folding>
-            <marker date="1526641927790" expanded="true" signature="6:121" ph="..." />
-            <marker date="1526641927790" expanded="true" signature="163:974" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="422:732" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="472:724" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="786:972" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="840:966" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="1274:1404" ph="{...}" />
-            <marker date="1526641927790" expanded="true" signature="1468:1590" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -607,17 +675,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1526641858993" expanded="false" signature="6:121" ph="..." />
-            <marker date="1526641858993" expanded="true" signature="163:974" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="422:732" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="472:724" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="786:972" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="840:966" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="1021:1598" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="1274:1404" ph="{...}" />
-            <marker date="1526641858993" expanded="true" signature="1468:1588" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -625,12 +683,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="528">
           <caret line="24" column="8" lean-forward="false" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-          <folding>
-            <marker date="1526825627459" expanded="true" signature="36:686" ph="{...}" />
-            <marker date="1526825627459" expanded="true" signature="256:386" ph="{...}" />
-            <marker date="1526825627459" expanded="true" signature="412:544" ph="{...}" />
-            <marker date="1526825627459" expanded="true" signature="588:684" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -638,29 +691,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="11" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <marker date="1526826176863" expanded="true" signature="39:576" ph="{...}" />
-            <marker date="1526826176863" expanded="true" signature="220:298" ph="{...}" />
-            <marker date="1526826176863" expanded="true" signature="333:574" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_10.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1209">
+        <state relative-caret-position="1386">
           <caret line="63" column="27" lean-forward="false" selection-start-line="63" selection-start-column="27" selection-end-line="63" selection-end-column="27" />
-          <folding>
-            <marker date="1526822790805" expanded="true" signature="6:159" ph="..." />
-            <marker date="1526822790805" expanded="true" signature="202:898" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="333:595" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="649:896" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="754:810" ph="/* print(pendulum.location); ... */" />
-            <marker date="1526822790805" expanded="true" signature="922:1755" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="1312:1374" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="1402:1607" ph="{...}" />
-            <marker date="1526822790805" expanded="true" signature="1638:1749" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -668,26 +707,52 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
           <caret line="20" column="26" lean-forward="false" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-          <folding>
-            <marker date="1526826293714" expanded="false" signature="6:78" ph="..." />
-            <marker date="1526826293714" expanded="true" signature="121:826" ph="{...}" />
-            <marker date="1526826293714" expanded="true" signature="324:529" ph="{...}" />
-            <marker date="1526826293714" expanded="true" signature="584:824" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding>
-            <marker date="1526829426315" expanded="true" signature="6:113" ph="..." />
-            <marker date="1526829426315" expanded="true" signature="156:775" ph="{...}" />
-            <marker date="1526829426315" expanded="true" signature="209:282" ph="{...}" />
-            <marker date="1526829426315" expanded="true" signature="311:451" ph="{...}" />
-            <marker date="1526829426315" expanded="true" signature="484:624" ph="{...}" />
-            <marker date="1526829426315" expanded="true" signature="647:768" ph="{...}" />
+            <marker date="1526901696410" expanded="false" signature="6:113" ph="..." />
+            <marker date="1526901696410" expanded="true" signature="156:783" ph="{...}" />
+            <marker date="1526901696410" expanded="true" signature="185:290" ph="/* public void Update() ... */" />
+            <marker date="1526901696410" expanded="true" signature="319:459" ph="{...}" />
+            <marker date="1526901696410" expanded="true" signature="492:632" ph="{...}" />
+            <marker date="1526901696410" expanded="true" signature="655:776" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="770">
+          <caret line="56" column="6" lean-forward="false" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="6" />
+          <folding>
+            <marker date="1526903491732" expanded="false" signature="6:125" ph="..." />
+            <marker date="1526903491732" expanded="true" signature="167:652" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="244:312" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="366:494" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="400:491" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="519:650" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="680:1587" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="913:1111" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1131:1175" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1198:1340" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1364:1473" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1496:1582" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1523:1547" ph="{...}" />
+            <marker date="1526903491732" expanded="true" signature="1554:1579" ph="{...}" />
           </folding>
         </state>
       </provider>
