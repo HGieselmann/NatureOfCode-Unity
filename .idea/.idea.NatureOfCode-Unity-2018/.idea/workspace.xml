@@ -4,43 +4,6 @@
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example-1-11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example-1-11.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-10.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/01_Vectors/Example1-9.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/02_Forces/Example-2-8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_10.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_10.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_11.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_11.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_4.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_4.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_6.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_6.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_7.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_7.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_8.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_8.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_9.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/03_Oscillation/Example_3_9.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_1.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_1.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_2.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_2.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_3.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/04_ParticleSystems/Example_4_3.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/MainMenu.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/00_Introduction/Example_0_2.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/00_Introduction/Example_0_2.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_3.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_3.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/other/CS.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/other/CS.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -84,13 +47,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_4_4.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Example_4_4.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_4.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
-              <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state relative-caret-position="748">
+              <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
               <folding>
-                <marker date="1526988693080" expanded="true" signature="6:125" ph="..." />
+                <marker date="1526988693080" expanded="false" signature="6:125" ph="..." />
                 <marker date="1526988693080" expanded="true" signature="167:632" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="262:313" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="367:629" ph="{...}" />
@@ -102,7 +65,6 @@
                 <marker date="1526988693080" expanded="true" signature="983:1124" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="1040:1120" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="1156:1237" ph="{...}" />
-                <marker date="1526988693080" expanded="true" signature="1268:2152" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="1501:1699" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="1719:1763" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="1786:1905" ph="{...}" />
@@ -110,6 +72,39 @@
                 <marker date="1526988693080" expanded="true" signature="2061:2147" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="2088:2112" ph="{...}" />
                 <marker date="1526988693080" expanded="true" signature="2119:2144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Example_4_5.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_5.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1606">
+              <caret line="76" column="8" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+              <folding>
+                <marker date="1527071870132" expanded="false" signature="6:125" ph="..." />
+                <marker date="1527071870132" expanded="true" signature="167:632" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="262:313" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="367:629" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="407:553" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="584:626" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="682:1296" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="817:913" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="933:1135" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="983:1131" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1040:1127" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1163:1292" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1339:1509" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1498:1507" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1536:2439" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1802:1972" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="1992:2036" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="2059:2178" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="2202:2325" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="2348:2434" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="2375:2399" ph="{...}" />
+                <marker date="1527071870132" expanded="true" signature="2406:2431" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -132,7 +127,6 @@
                 <marker date="1526988189859" expanded="true" signature="818:959" ph="{...}" />
                 <marker date="1526988189859" expanded="true" signature="875:955" ph="{...}" />
                 <marker date="1526988189859" expanded="true" signature="991:1072" ph="{...}" />
-                <marker date="1526988189859" expanded="true" signature="1103:1987" ph="{...}" />
                 <marker date="1526988189859" expanded="true" signature="1336:1534" ph="{...}" />
                 <marker date="1526988189859" expanded="true" signature="1554:1598" ph="{...}" />
                 <marker date="1526988189859" expanded="true" signature="1621:1740" ph="{...}" />
@@ -166,6 +160,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>partic</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -177,6 +176,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/00_Introduction/Example_0_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/other/CS.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/01_Vectors/Example_1_11.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_5.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_3.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_2.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -209,6 +209,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/other/LevelManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_3.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_4.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_5.cs" />
       </list>
     </option>
   </component>
@@ -295,12 +296,14 @@
       <workItem from="1526817160353" duration="10120000" />
       <workItem from="1526900220165" duration="3269000" />
       <workItem from="1526906837444" duration="4494000" />
-      <workItem from="1526987986155" duration="1173000" />
+      <workItem from="1526987986155" duration="1758000" />
+      <workItem from="1527071001326" duration="183000" />
+      <workItem from="1527071208758" duration="1170000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44752000" />
+    <option name="totallyTimeSpent" value="46690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +353,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="770">
@@ -503,7 +505,6 @@
             <marker date="1526988189859" expanded="true" signature="818:959" ph="{...}" />
             <marker date="1526988189859" expanded="true" signature="875:955" ph="{...}" />
             <marker date="1526988189859" expanded="true" signature="991:1072" ph="{...}" />
-            <marker date="1526988189859" expanded="true" signature="1103:1987" ph="{...}" />
             <marker date="1526988189859" expanded="true" signature="1336:1534" ph="{...}" />
             <marker date="1526988189859" expanded="true" signature="1554:1598" ph="{...}" />
             <marker date="1526988189859" expanded="true" signature="1621:1740" ph="{...}" />
@@ -517,10 +518,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_4.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="30" column="29" lean-forward="false" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        <state relative-caret-position="748">
+          <caret line="37" column="29" lean-forward="false" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
           <folding>
-            <marker date="1526988693080" expanded="true" signature="6:125" ph="..." />
+            <marker date="1526988693080" expanded="false" signature="6:125" ph="..." />
             <marker date="1526988693080" expanded="true" signature="167:632" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="262:313" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="367:629" ph="{...}" />
@@ -532,7 +533,6 @@
             <marker date="1526988693080" expanded="true" signature="983:1124" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="1040:1120" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="1156:1237" ph="{...}" />
-            <marker date="1526988693080" expanded="true" signature="1268:2152" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="1501:1699" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="1719:1763" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="1786:1905" ph="{...}" />
@@ -540,6 +540,37 @@
             <marker date="1526988693080" expanded="true" signature="2061:2147" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="2088:2112" ph="{...}" />
             <marker date="1526988693080" expanded="true" signature="2119:2144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_5.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1606">
+          <caret line="76" column="8" lean-forward="true" selection-start-line="76" selection-start-column="8" selection-end-line="76" selection-end-column="8" />
+          <folding>
+            <marker date="1527071870132" expanded="false" signature="6:125" ph="..." />
+            <marker date="1527071870132" expanded="true" signature="167:632" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="262:313" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="367:629" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="407:553" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="584:626" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="682:1296" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="817:913" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="933:1135" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="983:1131" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1040:1127" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1163:1292" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1339:1509" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1498:1507" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1536:2439" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1802:1972" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="1992:2036" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="2059:2178" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="2202:2325" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="2348:2434" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="2375:2399" ph="{...}" />
+            <marker date="1527071870132" expanded="true" signature="2406:2431" ph="{...}" />
           </folding>
         </state>
       </provider>
