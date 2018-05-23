@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Runtime.InteropServices;
 using System.Runtime.Remoting.Messaging;
 using UnityEngine;
 
@@ -30,6 +31,19 @@ public class CS : MonoBehaviour {
         Vector3 output = Pos.point;
 
         return output;
+    }
+
+    public static float Constrain(float val, float _min, float _max)
+    {
+        if (val < _min)
+        {
+            val = _min;
+        }else if (val > _max)
+        {
+            val = _max;
+        }
+
+        return val;
     }
 
 }

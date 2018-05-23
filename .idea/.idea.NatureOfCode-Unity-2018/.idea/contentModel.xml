@@ -92,6 +92,7 @@
             <e p="Example_4_4.cs" t="Include" />
             <e p="Example_4_5.cs" t="Include" />
             <e p="Example_4_6.cs" t="Include" />
+            <e p="Example_4_7.cs" t="Include" />
           </e>
           <e p="other" t="Include">
             <e p="CS.cs" t="Include" />

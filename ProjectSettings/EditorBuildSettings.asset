@@ -128,4 +128,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/04_ParticleSystems/Example_4_4.unity
     guid: 657c84182f5a6d14fa486699701bcaca
+  - enabled: 1
+    path: Assets/Scenes/04_ParticleSystems/Example_4_5.unity
+    guid: 675bd113662184149a42eb12e0140ed6
+  - enabled: 1
+    path: Assets/Scenes/04_ParticleSystems/Example_4_6.unity
+    guid: db01e4e10963981498ebc199bd706e32
+  - enabled: 1
+    path: Assets/Scenes/04_ParticleSystems/Example_4_7.unity
+    guid: 7bcbc9fef4070f84eaca36dd7e7c0573
   m_configObjects: {}
