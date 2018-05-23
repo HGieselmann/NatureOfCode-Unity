@@ -1,5 +1,4 @@
-﻿using System;
-using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -24,7 +23,7 @@ public class Example_0_2 : MonoBehaviour
 	void Update ()
 	{
 		cycles++;
-		int rand = UnityEngine.Random.RandomRange(0, cubes.Length + 1);
+		int rand = Random.RandomRange(0, cubes.Length + 1);
 		for (int i = 0; i < cubes.Length; i++)
 		{
 			if (i == rand)

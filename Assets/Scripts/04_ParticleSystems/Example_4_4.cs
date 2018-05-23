@@ -3,43 +3,49 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
 
-public class Example_4_3 : MonoBehaviour
+public class Example_4_4 : MonoBehaviour
 {
 
-	private ParticleSystem_4_3 ps;
+	private List<ParticleSystem_4_4> systems;
 
 	// Use this for initialization
 	void Start () {
-		ps = new ParticleSystem_4_3(new Vector3(8,8,0));
+		systems = new List<ParticleSystem_4_4>();
 		
 	}
 	
 	// Update is called once per frame
 	void Update ()
 	{
-
-		ps.AddParticle();
-		ps.run();
 		
 		if(Input.GetMouseButtonDown(0))
 		{
-			ps.origin = CS.MousePositionfromCam();
+			Vector3 aPlace = CS.MousePositionfromCam();
+			systems.Add(new ParticleSystem_4_4(aPlace));
+			//Debug.Log("MouseClicked. " + aPlace);
+		}
+
+		foreach (var PS in systems)
+		{
+			PS.run();
+			PS.AddParticle();
 		}
 	}
 
 }
 
 
-public class ParticleSystem_4_3 : MonoBehaviour
+public class ParticleSystem_4_4 : MonoBehaviour
 {
-	private List<Particle_4_3> particles;
+	private List<Particle_4_4> particles;
 	public Vector3 origin = new Vector3(8,8,0);
 
 	
-	public ParticleSystem_4_3(Vector3 _location)
+	public ParticleSystem_4_4(Vector3 _location)
 	{
 		origin = _location;
-		particles = new List<Particle_4_3>();
+		particles = new List<Particle_4_4>();
+//		Debug.Log("I ran.");
 		
 	}
 
@@ -58,12 +64,12 @@ public class ParticleSystem_4_3 : MonoBehaviour
 
 	public void AddParticle()
 	{
-		particles.Add(new Particle_4_3(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f)));
+		particles.Add(new Particle_4_4(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f)));
 	}
 	
 }
 
-public class Particle_4_3
+public class Particle_4_4
 {
 	public Vector3 location;
 	public Vector3 velocity;
@@ -72,7 +78,7 @@ public class Particle_4_3
 	private float lifespan;
 
 	// le Constructeur
-	public Particle_4_3(Vector3 _location, float _lifespan, Vector3 _velocity)
+	public Particle_4_4(Vector3 _location, float _lifespan, Vector3 _velocity)
 	{
 		location = _location;
 		acceleration = new Vector3(0, -1, 0);
