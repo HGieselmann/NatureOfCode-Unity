@@ -37,14 +37,14 @@ public class Example_4_5 : MonoBehaviour
 
 public class ParticleSystem_4_5 : MonoBehaviour
 {
-	private List<Confetti_4_5> particles;
+	private List<Particle_4_5> particles;
 	public Vector3 origin = new Vector3(8,8,0);
 
 	
 	public ParticleSystem_4_5(Vector3 _location)
 	{
 		origin = _location;
-		particles = new List<Confetti_4_5>();
+		particles = new List<Particle_4_5>();
 //		Debug.Log("I ran.");
 		
 	}
@@ -64,7 +64,22 @@ public class ParticleSystem_4_5 : MonoBehaviour
 
 	public void AddParticle()
 	{
-		particles.Add(new Confetti_4_5(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f), GameObject.CreatePrimitive(PrimitiveType.Cube)));
+		float r = Random.value;
+		if (r <= 0.33f)
+		{
+			particles.Add(new Confetti_4_5(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f), GameObject.CreatePrimitive(PrimitiveType.Cube)));
+		}
+		else if (r <= 0.66f)
+		{
+			particles.Add(new SphereParticle_4_5(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f), GameObject.CreatePrimitive(PrimitiveType.Sphere)));
+
+		}
+		else
+		{
+			particles.Add(new CapsuleParticle_4_5(origin,1f, CS.RandVec3DXY(-0.1f, 0.1f), GameObject.CreatePrimitive(PrimitiveType.Capsule)));
+
+		}
+		
 	}
 	
 }
@@ -73,6 +88,22 @@ public class ParticleSystem_4_5 : MonoBehaviour
 public class Confetti_4_5 : Particle_4_5
 {
 	public Confetti_4_5(Vector3 _location, float _lifespan, Vector3 _velocity, GameObject _particleType) : base(_location, _lifespan, _velocity, _particleType)
+	{
+		
+	}
+}
+
+public class SphereParticle_4_5 : Particle_4_5
+{
+	public SphereParticle_4_5(Vector3 _location, float _lifespan, Vector3 _velocity, GameObject _particleType) : base(_location, _lifespan, _velocity, _particleType)
+	{
+		
+	}
+}
+
+public class CapsuleParticle_4_5 : Particle_4_5
+{
+	public CapsuleParticle_4_5(Vector3 _location, float _lifespan, Vector3 _velocity, GameObject _particleType) : base(_location, _lifespan, _velocity, _particleType)
 	{
 		
 	}
