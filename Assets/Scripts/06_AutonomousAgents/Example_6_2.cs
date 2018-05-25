@@ -6,18 +6,18 @@ using UnityEngine;
 public class Example_6_2 : MonoBehaviour
 {
 
-	public Vehicle_6_2 Vehicle_6_1;
+	public Vehicle_6_2 Vehicle_6_2;
 
 	// Use this for initialization
 	void Start () {
-		Vehicle_6_1 = new Vehicle_6_2(8, 4.5f);
+		Vehicle_6_2 = new Vehicle_6_2(8, 4.5f);
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		Vehicle_6_1.update();
-		Vehicle_6_1.arrive(CS.MousePositionfromCam());
-		Vehicle_6_1.display();
+		Vehicle_6_2.update();
+		Vehicle_6_2.arrive(CS.MousePositionfromCam());
+		Vehicle_6_2.display();
 	}
 }
 
@@ -36,7 +36,7 @@ public class Vehicle_6_2
 		velocity = new Vector3(0,0,0);
 		location = new Vector3(_x, _y,0);
 		r = 3.0f;
-		maxspeed = 4;
+		maxspeed = 5;
 		maxforce = 0.1f;
 		vehicle61 = GameObject.CreatePrimitive(PrimitiveType.Cube);
 		vehicle61.transform.localScale= new Vector3(.2f, .2f, .4f);

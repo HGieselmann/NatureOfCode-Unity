@@ -10,7 +10,7 @@ public class MainMenuBG : MonoBehaviour
     public static int NOfColumns = 50;
     public static int NOfRows = 40;
 
-    public GameObject[] Quads = new GameObject[9216];
+    public GameObject[] Quads = new GameObject[NOfColumns * NOfRows];
     public float speed = 0;
     public float perlinScaler = 0.1f;
     public Vector3 mousePosOld = new Vector3(0,0,0);
