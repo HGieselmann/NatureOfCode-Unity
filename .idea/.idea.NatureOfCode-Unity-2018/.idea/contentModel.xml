@@ -96,6 +96,7 @@
           </e>
           <e p="06_AutonomousAgents" t="Include">
             <e p="Example_6_1.cs" t="Include" />
+            <e p="Example_6_2.cs" t="Include" />
           </e>
           <e p="other" t="Include">
             <e p="CS.cs" t="Include" />

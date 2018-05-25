@@ -3,25 +3,25 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
 
-public class Example_6_1 : MonoBehaviour
+public class Example_6_2 : MonoBehaviour
 {
 
-	public Vehicle_6_1 Vehicle_6_1;
+	public Vehicle_6_2 Vehicle_6_1;
 
 	// Use this for initialization
 	void Start () {
-		Vehicle_6_1 = new Vehicle_6_1(8, 4.5f);
+		Vehicle_6_1 = new Vehicle_6_2(8, 4.5f);
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		Vehicle_6_1.update();
-		Vehicle_6_1.seek(CS.MousePositionfromCam());
+		Vehicle_6_1.arrive(CS.MousePositionfromCam());
 		Vehicle_6_1.display();
 	}
 }
 
-public class Vehicle_6_1
+public class Vehicle_6_2
 {
 	Vector3 location;
 	Vector3 velocity;
@@ -31,7 +31,7 @@ public class Vehicle_6_1
 	float maxspeed;
 	public GameObject vehicle61;
  
-	public Vehicle_6_1(float _x, float _y) {
+	public Vehicle_6_2(float _x, float _y) {
 		acceleration = new Vector3(0,0,0);
 		velocity = new Vector3(0,0,0);
 		location = new Vector3(_x, _y,0);
@@ -60,6 +60,26 @@ public class Vehicle_6_1
 		Vector3 desired = target - location;
 		desired = desired.normalized;
 		desired *= maxspeed;
+		Vector3 steer = desired - velocity;
+		steer = CS.ConstrainVector3(steer, maxforce);
+		applyForce(steer);
+	}
+
+	public void arrive(Vector3 _target)
+	{
+		Vector3 desired = _target - location;
+		float d = desired.magnitude;
+		desired.Normalize();
+		if (d < 3)
+		{
+			float m = CS.Remap(d, 0, 3, 0, maxspeed);
+			desired *= m;
+		}
+		else
+		{
+			desired *= maxspeed;
+		}
+
 		Vector3 steer = desired - velocity;
 		steer = CS.ConstrainVector3(steer, maxforce);
 		applyForce(steer);
