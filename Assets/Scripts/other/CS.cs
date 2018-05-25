@@ -46,4 +46,13 @@ public class CS : MonoBehaviour {
         return val;
     }
 
+    public static Vector3 ConstrainVector3(Vector3 _vec, float _max)
+    {
+        Vector3 vec = _vec.normalized;
+        float length = _vec.magnitude;
+        length = Mathf.Clamp(length, 0, _max);
+
+        return vec * length;
+    }
+
 }

@@ -354,8 +354,8 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 1536939674}
-  - component: {fileID: 1536939675}
   - component: {fileID: 1536939676}
+  - component: {fileID: 1536939675}
   m_Layer: 0
   m_Name: ScriptHolder
   m_TagString: Untagged
@@ -384,7 +384,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1536939673}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 19c381c62612bfe47ab050fd25a1d91b, type: 3}
+  m_Script: {fileID: 11500000, guid: 4299d337711746e4ca540d892d40e5f0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1536939676
@@ -398,7 +398,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 37b6e09f30494514b8a9a4255ba89766, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  darkWorld: 1
+  darkWorld: 0
   myCam: {fileID: 0}
 --- !u!1001 &1989633589
 Prefab:
