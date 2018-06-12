@@ -25,7 +25,6 @@ public class MainMenuBG : MonoBehaviour
 
     private void Update()
     {
-        Debug.Log(Quads.Length);
         mousePos = CS.MousePositionfromCam();
         Vector3 MouseDistance = mousePosOld - mousePos;
         float disturb = MouseDistance.magnitude;
@@ -35,6 +34,7 @@ public class MainMenuBG : MonoBehaviour
 
     public void createGrid()
     {
+        DarkGrey = Resources.Load("Materials/BGLighterRed", typeof(Material)) as Material;
         for (int i = 0; i < Quads.Length; i++)
         {
             int a = (int) (i / NOfColumns);

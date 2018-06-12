@@ -146,4 +146,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/06_AutonomousAgents/Example_6_3.unity
     guid: 133ac41c9813a314294489bddc9e84aa
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_4.unity
+    guid: f9979fbbb0b7b8142931c25a81ba9a34
   m_configObjects: {}

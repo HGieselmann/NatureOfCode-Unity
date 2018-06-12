@@ -1,32 +1,30 @@
-﻿using System.Collections;
+﻿/*using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
+using Vuforia;
 
-public class Example_6_4 : MonoBehaviour
+public class Example_6_5 : MonoBehaviour
 {
 
-	public Vehicle_6_4 Vehicle_6_4;
-	public FlowField FlowField64;
+	public Vehicle_6_5 Vehicle_6_5;
 
 	// Use this for initialization
 	void Start () {
-		FlowField64 = new FlowField(100);
-		Vehicle_6_4 = new Vehicle_6_4(8, 4.5f);
+		Vehicle_6_5 = new Vehicle_6_5(8, 4.5f);
 		
 	}
 	
 	// Update is called once per frame
 	void Update () {
-		Vehicle_6_4.update();
-		Vehicle_6_4.seek(FlowField64.lookup(Vehicle_6_4.location));
-		Vehicle_6_4.display();
-		Vehicle_6_4.CheckEdges();
-		FlowField64.flow();
+		Vehicle_6_5.update();
+		Vehicle_6_5.seek();
+		Vehicle_6_5.display();
+		Vehicle_6_5.CheckEdges();
 	}
 }
 
-public class Vehicle_6_4
+public class Vehicle_6_5
 {
 	public Vector3 location;
 	Vector3 velocity;
@@ -38,7 +36,7 @@ public class Vehicle_6_4
 	public GameObject debugsphere;
 	public GameObject debugsphere2;
  
-	public Vehicle_6_4(float _x, float _y) {
+	public Vehicle_6_5(float _x, float _y) {
 		acceleration = new Vector3(0,0,0);
 		velocity = new Vector3(0,0,0);
 		location = new Vector3(_x, _y,0);
@@ -141,68 +139,28 @@ public class Vehicle_6_4
 	}
 }
 
-public class FlowField
+public class FollowPath_6_5
 {
-	public float time;
-	public Vector3[] Grid;
-	private int cols, rows;
-	private int resolution;
-	public float xoff;
-	public float yoff;
-	float perlinScaler = 0.01f;
+	private LineRenderer line;
+	public Vector3 start;
+	public Vector3 end;
 
-	public FlowField(int _r)
+	public float radius;
+	
+	public FollowPath_6_5()
 	{
-		resolution = _r;
-		cols = 16;
-		rows = 9;
-		Grid = new Vector3[cols * rows];
+		radius = .5f;
+		line = new LineRenderer();
+		line.widthMultiplier = radius;
 		
-		init();
-		
+		start = new Vector3(0, 6, 0);
+		end = new Vector3(16, 2, 0);
+
 	}
 
-	public void init()
+	public void displayPath()
 	{
-		
-		for (int i = 0; i < Grid.Length; i++)
-		{
-			int a = (int) (i / cols);
-			int off = a * cols;
-            
-			float myPerlin = Mathf.PerlinNoise((i - off)*perlinScaler, (a)*perlinScaler) * 360;
-			Grid[i] = new Vector3(Mathf.Sin(myPerlin), Mathf.Cos(myPerlin), 0);
-
-
-		}
-		
+		line.SetPosition(0, start);
+		line.SetPosition(1, end);
 	}
-
-	public void flow()
-	{
-		
-		for (int i = 0; i < Grid.Length; i++)
-		{
-			time += 0.001f * Time.deltaTime;
-			int a = (int) (i / cols);
-			int off = a * cols;
-            
-			float myPerlin = Mathf.PerlinNoise((i - off + time)*perlinScaler, (a + time)*perlinScaler) * 360;
-			Grid[i] = new Vector3(Mathf.Sin(myPerlin), Mathf.Cos(myPerlin), 0);
-
-
-		}
-	}
-
-	public Vector3 lookup(Vector3 _location)
-	{
-		int column = (int) _location.x;
-		int rows = (int) _location.y;
-		int look = column * rows;	
-		
-		
-		Vector3 returnVec = _location + Grid[look];
-		
-		return returnVec;
-	}
-}
+}*/
