@@ -1,26 +1,40 @@
-﻿/*using System.Collections;
+﻿using System.Collections;
 using System.Collections.Generic;
 using System.Runtime.InteropServices.ComTypes;
 using UnityEngine;
-using Vuforia;
 
 public class Example_6_5 : MonoBehaviour
 {
 
 	public Vehicle_6_5 Vehicle_6_5;
+	private Example_6_5_Path example65Path;
+	public LineRenderer pathLine;
+	
+	
 
 	// Use this for initialization
-	void Start () {
-		Vehicle_6_5 = new Vehicle_6_5(8, 4.5f);
+	void Start ()
+	{
 		
+		example65Path = new Example_6_5_Path();
+		Vehicle_6_5 = new Vehicle_6_5(0, 4f);
+		pathLine = gameObject.AddComponent<LineRenderer>();
+		pathLine.SetPosition(0, example65Path.pathStart);
+		pathLine.SetPosition(1, example65Path.pathEnd);
+		pathLine.widthMultiplier = 0.1f;
+		pathLine.startColor = Color.white;
+		pathLine.endColor = Color.white;
+
+
 	}
 	
 	// Update is called once per frame
 	void Update () {
 		Vehicle_6_5.update();
-		Vehicle_6_5.seek();
+		Vehicle_6_5.follow(example65Path);
 		Vehicle_6_5.display();
 		Vehicle_6_5.CheckEdges();
+
 	}
 }
 
@@ -32,23 +46,17 @@ public class Vehicle_6_5
 	float r;
 	float maxforce;
 	float maxspeed;
-	public GameObject vehicle61;
-	public GameObject debugsphere;
-	public GameObject debugsphere2;
+	public GameObject vehicle65;
  
 	public Vehicle_6_5(float _x, float _y) {
 		acceleration = new Vector3(0,0,0);
-		velocity = new Vector3(0,0,0);
-		location = new Vector3(_x, _y,0);
+		velocity = new Vector3(1,0,0);
+		location = new Vector3(_x, _y, 0);
 		r = 3.0f;
-		maxspeed = 3f;
-		maxforce = 0.1f;
-		debugsphere = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		debugsphere.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
-		debugsphere2 = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-		debugsphere2.transform.localScale = new Vector3(0.1f, 0.1f, 0.1f);
-		vehicle61 = GameObject.CreatePrimitive(PrimitiveType.Cube);
-		vehicle61.transform.localScale= new Vector3(.2f, .2f, .4f);
+		maxspeed = 20f;
+		maxforce = 1f;
+		vehicle65 = GameObject.CreatePrimitive(PrimitiveType.Cube);
+		vehicle65.transform.localScale= new Vector3(.2f, .2f, .4f);
 	}
  
 	public void update() {
@@ -69,25 +77,6 @@ public class Vehicle_6_5
 		Vector3 desired = target - location;
 		desired = desired.normalized;
 		desired *= maxspeed;
-		
-		
-		
-		// Wall ""bouncing""
-		if (location.x < 0.5f)
-		{
-			desired.x += 2;
-		} else if (location.x > 15.5f)
-		{
-			desired.x -= 2;
-		}
-
-		if (location.y < 0.5f)
-		{
-			desired.y += 2;
-		}else if (location.y > 8.5f)
-		{
-			desired.y -= 2;
-		}
 		Vector3 steer = desired - velocity;
 		steer = CS.ConstrainVector3(steer, maxforce);
 		applyForce(steer);
@@ -95,26 +84,47 @@ public class Vehicle_6_5
 		
 	}
 
-	public Vector3 wander()
+	public void follow(Example_6_5_Path _path)
 	{
-		
-		Vector3 circleCenter = location + velocity.normalized * 1;
-		debugsphere.transform.position = circleCenter;
-		float x = Mathf.Cos(Random.Range(0, 360));
-		float y = Mathf.Sin(Random.Range(0, 360));
-		Vector3 aim = new Vector3(circleCenter.x + x, circleCenter.y + y);
-		debugsphere2.transform.position = aim;
-		return aim;
+		Vector3 predict = velocity;
+		predict.Normalize();
+		predict *= 1;
+		Vector3 predictedPos = predict + location;
 
+		Vector3 a = _path.pathStart;
+		Vector3 b = _path.pathEnd;
+
+		Vector3 normalPoint = getNormalPoint(predictedPos, a, b);
+
+		Vector3 dir = b - a;
+		dir.Normalize();
+		dir *= 2;
+		Vector3 target = normalPoint + dir;
+
+		float distance = Vector3.Distance(predictedPos, normalPoint);
+		if (distance > _path.pathRadius)
+		{
+			seek(target);
+		}
+	}
+
+	public Vector3 getNormalPoint(Vector3 _p, Vector3 _a, Vector3 _b)
+	{
+		Vector3 ap = _p - _a;
+		Vector3 ab = _b - _a;
+		ab.Normalize();
+		ab *= Vector3.Dot(ap, ab);
+		Vector3 normalPoint = _a + ab;
+		return normalPoint;
 	}
  
 	public void display()
 	{
 		
-		vehicle61.transform.position = new Vector3(location.x, location.y, 0); // constrained Z
+		vehicle65.transform.position = new Vector3(location.x, location.y, 0); // constrained Z
 		var newRotation = Quaternion.LookRotation(velocity).eulerAngles;  // 
 		newRotation.z = 0; // Constrain Rotation
-		vehicle61.transform.rotation = Quaternion.Euler(newRotation);
+		vehicle65.transform.rotation = Quaternion.Euler(newRotation);
 
 
 	}
@@ -127,6 +137,7 @@ public class Vehicle_6_5
 		} else if (location.x > 16)
 		{
 			location.x = 0;
+			location.y = Random.RandomRange(0f, 9f);
 		}
 
 		if (location.y < 0)
@@ -139,28 +150,20 @@ public class Vehicle_6_5
 	}
 }
 
-public class FollowPath_6_5
+
+
+public class Example_6_5_Path
 {
-	private LineRenderer line;
-	public Vector3 start;
-	public Vector3 end;
-
-	public float radius;
+	public Vector3 pathStart;
+	public Vector3 pathEnd;
+	public float pathRadius;
 	
-	public FollowPath_6_5()
+	public Example_6_5_Path()
 	{
-		radius = .5f;
-		line = new LineRenderer();
-		line.widthMultiplier = radius;
-		
-		start = new Vector3(0, 6, 0);
-		end = new Vector3(16, 2, 0);
-
+		pathRadius = 0.1f;
+		pathStart = new Vector3(0, 8, 0);
+		pathEnd = new Vector3(16, 2, 0);
 	}
-
-	public void displayPath()
-	{
-		line.SetPosition(0, start);
-		line.SetPosition(1, end);
-	}
-}*/
+	
+	
+}

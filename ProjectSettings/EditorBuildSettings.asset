@@ -149,4 +149,19 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/06_AutonomousAgents/Example_6_4.unity
     guid: f9979fbbb0b7b8142931c25a81ba9a34
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_5.unity
+    guid: 8cede9fbce8eb8a4eaa3e45cfea8c6e8
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_6.unity
+    guid: e92e3f7fc893abb4982fa6bf3fdcf4ea
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_7.unity
+    guid: 40ae70538c431dc498095ff2bb6cd6b9
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_8.unity
+    guid: 666c3a33611a975418d27d4f2a3d7276
+  - enabled: 1
+    path: Assets/Scenes/06_AutonomousAgents/Example_6_9.unity
+    guid: 050fd1fef8480af4cb0fe5f6164dc926
   m_configObjects: {}

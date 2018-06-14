@@ -356,7 +356,6 @@ GameObject:
   - component: {fileID: 1536939674}
   - component: {fileID: 1536939676}
   - component: {fileID: 1536939675}
-  - component: {fileID: 1536939677}
   m_Layer: 0
   m_Name: ScriptHolder
   m_TagString: Untagged
@@ -385,9 +384,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1536939673}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1af85243b7769f4798ed44cb0f73b04, type: 3}
+  m_Script: {fileID: 11500000, guid: 3c5b19517bc6e4b45ae3a44edc31f585, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  pathLine: {fileID: 0}
 --- !u!114 &1536939676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -401,18 +401,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   darkWorld: 0
   myCam: {fileID: 0}
---- !u!114 &1536939677
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1536939673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83b7c4b14f468aa47881c849ec77a33d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LineRenderer: {fileID: 0}
 --- !u!1001 &1989633589
 Prefab:
   m_ObjectHideFlags: 0

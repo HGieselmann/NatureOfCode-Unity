@@ -100,9 +100,19 @@
             <e p="Example_6_3.cs" t="Include" />
             <e p="Example_6_4.cs" t="Include" />
             <e p="Example_6_5.cs" t="Include" />
+            <e p="Example_6_6.cs" t="Include" />
+            <e p="Example_6_7.cs" t="Include" />
+            <e p="Example_6_7_Boid.cs" t="Include" />
+            <e p="Example_6_7_Flock.cs" t="Include" />
+            <e p="Example_6_8.cs" t="Include" />
+            <e p="Example_6_8_Boid.cs" t="Include" />
+            <e p="Example_6_8_Flock.cs" t="Include" />
             <e p="Example_6_9.cs" t="Include" />
             <e p="Example_6_9_Boid.cs" t="Include" />
-            <e p="Flock.cs" t="Include" />
+            <e p="Example_6_9_Flock.cs" t="Include" />
+          </e>
+          <e p="07_CellularAutomata" t="Include">
+            <e p="Example_7_1.cs" t="Include" />
           </e>
           <e p="other" t="Include">
             <e p="CS.cs" t="Include" />

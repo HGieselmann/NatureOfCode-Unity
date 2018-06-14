@@ -340,7 +340,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1418215416}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 8, y: 4.5, z: -10}
+  m_LocalPosition: {x: 8, y: 4.5, z: -7}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -356,7 +356,6 @@ GameObject:
   - component: {fileID: 1536939674}
   - component: {fileID: 1536939676}
   - component: {fileID: 1536939675}
-  - component: {fileID: 1536939677}
   m_Layer: 0
   m_Name: ScriptHolder
   m_TagString: Untagged
@@ -385,7 +384,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1536939673}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d1af85243b7769f4798ed44cb0f73b04, type: 3}
+  m_Script: {fileID: 11500000, guid: 1f23bd010b51b7745abcae4f2a2e6b3c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &1536939676
@@ -401,18 +400,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   darkWorld: 0
   myCam: {fileID: 0}
---- !u!114 &1536939677
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1536939673}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 83b7c4b14f468aa47881c849ec77a33d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  LineRenderer: {fileID: 0}
 --- !u!1001 &1989633589
 Prefab:
   m_ObjectHideFlags: 0
