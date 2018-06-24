@@ -114,6 +114,9 @@
           <e p="07_CellularAutomata" t="Include">
             <e p="Example_7_1.cs" t="Include" />
           </e>
+          <e p="09_EvolutionOfCode" t="Include">
+            <e p="Example_9_1.cs" t="Include" />
+          </e>
           <e p="other" t="Include">
             <e p="CS.cs" t="Include" />
             <e p="GlobalSetup.cs" t="Include" />

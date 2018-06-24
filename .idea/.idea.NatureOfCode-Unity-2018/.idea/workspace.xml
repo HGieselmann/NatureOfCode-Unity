@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3eba8e79-3672-414d-a602-026ad08d016c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/contentModel.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.NatureOfCode-Unity-2018/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/06_AutonomousAgents/Example_6_5.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/06_AutonomousAgents/Example_6_5.unity" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_5.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_5.cs" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Flock.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Flock.cs.meta" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs" afterPath="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -61,21 +56,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Example_7_1.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/07_CellularAutomata/Example_7_1.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <marker date="1528980564945" expanded="false" signature="6:78" ph="..." />
-                <marker date="1528980564945" expanded="true" signature="121:242" ph="{...}" />
-                <marker date="1528980564945" expanded="true" signature="171:178" ph="{...}" />
-                <marker date="1528980564945" expanded="true" signature="233:240" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Laser.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Laser.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -86,49 +66,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Player.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="682">
               <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Example_6_6.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_6.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-              <folding>
-                <marker date="1528990315883" expanded="true" signature="6:125" ph="..." />
-                <marker date="1528990315883" expanded="true" signature="167:1096" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="327:920" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="747:808" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="975:1094" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="1122:3809" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="1309:1591" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="1616:1764" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="1805:1869" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="1907:2120" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="2165:2983" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="2422:2910" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="2607:2638" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="2735:2906" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="2949:2974" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3051:3207" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3232:3512" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3539:3807" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3564:3592" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3618:3689" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3691:3804" ph="/* if (location.y &lt; 0) ... */" />
-                <marker date="1528990315883" expanded="true" signature="3842:4211" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="3929:3988" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="4042:4087" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="4115:4141" ph="{...}" />
-                <marker date="1528990315883" expanded="true" signature="4168:4207" ph="{...}" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -158,16 +101,17 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_3.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_6.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Motyf-HoloLens/Assets/Scripts/Example_6_9_Boid.cs" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/02_Forces/Example_2_6.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Laser.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Laser.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_6.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_1.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/other/MainMenuBG.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/00_Introduction/Example_0_2.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/07_CellularAutomata/Example_7_1.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Player.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Player.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_7.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/04_ParticleSystems/Example_4_5.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/01_Vectors/ExampleOneFour.cs" root0="FORCE_HIGHLIGHTING" />
@@ -221,18 +165,19 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_4.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/other/MainMenuBG.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Flock.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/other/LineRendererTest.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_5.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_7_Flock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_7.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_7_Boid.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_8_Flock.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_8.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_8_Boid.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_6.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs" />
+        <option value="$PROJECT_DIR$/../Motyf-HoloLens/Assets/Scripts/Example_6_9_Boid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs" />
       </list>
     </option>
   </component>
@@ -265,6 +210,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -278,7 +224,6 @@
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -338,12 +283,13 @@
       <workItem from="1528882140990" duration="3744000" />
       <workItem from="1528887361113" duration="9400000" />
       <workItem from="1528967188944" duration="2522000" />
-      <workItem from="1528990308327" duration="9000" />
+      <workItem from="1528990308327" duration="704000" />
+      <workItem from="1529321577822" duration="1973000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126478000" />
+    <option name="totallyTimeSpent" value="129146000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -355,8 +301,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-11" y="-11" width="2582" height="1402" extended-state="6" />
-    <editor active="true" />
+    <frame x="-11" y="-11" width="2582" height="1462" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -409,7 +354,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_4.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_3.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Oscillation/Example_3_6.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vectors/Example_1_11_Mover.cs" />
@@ -635,61 +579,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_7_Boid.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1000">
           <caret line="135" column="5" lean-forward="false" selection-start-line="105" selection-start-column="4" selection-end-line="135" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="4" column="24" lean-forward="false" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/other/MainMenuBG.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
-          <folding>
-            <marker date="1527497736947" expanded="false" signature="6:111" ph="..." />
-            <marker date="1527497736947" expanded="true" signature="152:1909" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="530:564" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="591:820" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="850:1430" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="994:1424" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="1468:1901" ph="{...}" />
-            <marker date="1527497736947" expanded="true" signature="1588:1895" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/07_CellularAutomata/Example_7_1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1528980564945" expanded="false" signature="6:78" ph="..." />
-            <marker date="1528980564945" expanded="true" signature="121:242" ph="{...}" />
-            <marker date="1528980564945" expanded="true" signature="171:178" ph="{...}" />
-            <marker date="1528980564945" expanded="true" signature="233:240" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -701,18 +594,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_6.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="18" lean-forward="false" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        <state relative-caret-position="330">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding>
             <marker date="1528990315883" expanded="true" signature="6:125" ph="..." />
             <marker date="1528990315883" expanded="true" signature="167:1096" ph="{...}" />
@@ -735,12 +620,127 @@
             <marker date="1528990315883" expanded="true" signature="3564:3592" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="3618:3689" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="3691:3804" ph="/* if (location.y &lt; 0) ... */" />
-            <marker date="1528990315883" expanded="true" signature="3842:4211" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="3929:3988" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="4042:4087" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="4115:4141" ph="{...}" />
             <marker date="1528990315883" expanded="true" signature="4168:4207" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/07_CellularAutomata/Example_7_1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1528980564945" expanded="false" signature="6:78" ph="..." />
+            <marker date="1528980564945" expanded="true" signature="121:242" ph="{...}" />
+            <marker date="1528980564945" expanded="true" signature="171:178" ph="{...}" />
+            <marker date="1528980564945" expanded="true" signature="233:240" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/other/MainMenuBG.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="36" column="57" lean-forward="false" selection-start-line="36" selection-start-column="57" selection-end-line="36" selection-end-column="57" />
+          <folding>
+            <marker date="1527497736947" expanded="false" signature="6:111" ph="..." />
+            <marker date="1527497736947" expanded="true" signature="152:1909" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="530:564" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="591:820" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="850:1430" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="994:1424" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="1468:1901" ph="{...}" />
+            <marker date="1527497736947" expanded="true" signature="1588:1895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Flock.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding>
+            <marker date="1529321688432" expanded="false" signature="6:53" ph="..." />
+            <marker date="1529321688432" expanded="true" signature="87:468" ph="{...}" />
+            <marker date="1529321688432" expanded="true" signature="167:229" ph="{...}" />
+            <marker date="1529321688432" expanded="true" signature="254:381" ph="{...}" />
+            <marker date="1529321688432" expanded="true" signature="308:364" ph="{...}" />
+            <marker date="1529321688432" expanded="true" signature="428:465" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Motyf-HoloLens/Assets/Scripts/Example_6_9_Boid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <marker date="1529322277633" expanded="false" signature="6:78" ph="..." />
+            <marker date="1529322277633" expanded="true" signature="120:557" ph="{...}" />
+            <marker date="1529322277633" expanded="true" signature="250:478" ph="{...}" />
+            <marker date="1529322277633" expanded="true" signature="317:472" ph="{...}" />
+            <marker date="1529322277633" expanded="true" signature="533:555" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/06_AutonomousAgents/Example_6_9_Boid.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="58" column="16" lean-forward="false" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+          <folding>
+            <marker date="1529322348622" expanded="false" signature="6:204" ph="..." />
+            <marker date="1529322348622" expanded="true" signature="236:5540" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="514:991" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="1043:1135" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="1171:1214" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="1261:1619" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="1642:1914" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="1974:2803" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="2122:2472" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="2243:2462" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="2496:2556" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="2590:2774" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="2854:3090" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="3150:4228" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="3306:3885" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="3436:3875" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="3481:3777" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="3909:4141" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4154:4213" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4289:5003" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4450:4830" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4581:4820" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4626:4738" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4854:4930" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="4943:4997" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5031:5537" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5067:5116" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5146:5196" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5226:5275" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5305:5355" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5387:5438" ph="{...}" />
+            <marker date="1529322348622" expanded="true" signature="5470:5522" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../GalaxyShooter/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="31" column="5" lean-forward="false" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
